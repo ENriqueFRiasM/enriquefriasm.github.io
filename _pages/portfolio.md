@@ -23,7 +23,7 @@ author_profile: true
 
 - "Method and computer programs for the construction of communting matrices using call detail records and a use for providing user's mobility information ", [US8838134 B2](https://patents.google.com/patent/US8838134?oq=Method+and+computer+programs+for+the+construction+of+commuting+matrices+using+call+detail+records+and+a+use+for+providing+users+mobility+information)
 
-- "METHOD AND COMPUTER SYSTEM TO FORECAST ECONOMIC TIME SERIES OF A REGION AND COMPUTER PROGRAM THEREOF ", [United States Patent Application 20140372172 A1](https://www.freepatentsonline.com/20140372172.pdf)
+- "Method and Computer System to forecast economic time series of a region and computer program thereof", [United States Patent Application 20140372172 A1](https://www.freepatentsonline.com/20140372172.pdf)
 
 - "Method, system and computer-readable storage mediums for estimating a route", [European Patent EP2822325 A1](https://data.epo.org/gpi/EP2822325A1-Method-system-and-computer-readable-storage-mediums-for-estimating-a-route) [US20150012213 A1](https://patents.google.com/patent/US20150012213?oq=frias-martinez)
 
