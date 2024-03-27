@@ -17,6 +17,18 @@ redirect_from:
 * I was interviewd by MIT Technology Review Spain regarding the use of digital traces to improve urban environments. You can see the interview [here](https://www.technologyreview.es/s/10660/los-datos-permiten-evaluar-si-las-politicas-de-urbanismo-funcionan).
 *  My Contribution to Think Big Blog: [“Urban Analysis for the XXI Century”](https://blogthinkbig.com/urban-analysis) , wa salso featured in the World Economic Forum Agenda: “What mobile phones teach us about cities”  and the [World Economic Forum @ DAVOS twitter account](https://twitter.com/davos/status/562543577927258112)
 *  My paper "Spectral Clustering for Sensing Urban Land Use using Twitter Activity" has been featured in ABC Newspaper (spanish), Muy Interesante (Printed Magazine), Muy Interesante (On-Line Magazine), ﻿CienciaXPlora, ﻿﻿Vanguardia de Mexico﻿, CBC News, TIME.com, The Times of India, Phys.org, Science Daily among others.
-*  Our work in modeling H1N1 spreading has been featured in The Economist as an example of how Big data can be used to control Ebola: "Ebola and Big data: Wainting on Hold" . Also by Australia Journal, Digital Economics, YeYang.org, 24h.net
+*  Our work in modeling H1N1 spreading has been featured in The Economist as an example of how Big data can be used to control Ebola: ["Ebola and Big data: Wainting on Hold"](https://www.economist.com/science-and-technology/2014/10/27/waiting-on-hold).
+* "Urban Analysis for the XXI Century: Using Pervasive Infrastructures for Modeling Urban Dynamics", Big Bang Data, CCCB Barcelona, Spain, 2014
+* "Urban Informatics", Jornadas BigData CyL, Boecillo, Valladolid, 2013
+* "Urban Analysis for the XXI Century", Catedra Telefonica, Universidad de Valladolid, 2012
+* Rethink: 2012 Data Philantrophy - Panel Member, NYC, 2012
+* " Using Pervasive INfrastructures for Modeling Urban Dynamics" - Las TIC en las ciudades del Futuro, Santander, 2011
+* “Web Mining for Personalization of Adaptive Hypermedia”, Brunel University, London, UK, Febrero 2004
+* “Fuzzy Logic: Introduction & Applications”, Computer Science Dep., New York University, 2001
+* “Lógica Borrosa: Introducción y Aplicaciones”, Universidad de Burgos, 8 de Junio, 2001
+* “Integrated Development Environments for Digital Signal Processing Architectures”,   Universidad Politécnica de Madrid Mayo 2001
+* “Architectures for high-speed Fuzzy Processing”, Facultad de Informatica, Univ. Politécnica de Madrid, 2000
+
+
      
    
