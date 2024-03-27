@@ -9,7 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-2021:
 
 ﻿“Trade-offs between individual and ensemble forecasts of an emerging infectious disease”, Rachel JOidtman, Elisa Omodei, Moritz UG Kraemer,...,Enrique Frias-Martinez, Manuel Garcia-Herranz,Alex Perkins. Nature Commun 12, 5379, 2021﻿ [LINK][PDF]
 
@@ -18,8 +17,6 @@ author_profile: true
 “The contribution of telco data to fight the COVID-19 pandemic: Experience of Telefonica throughoutits footprint”, Data & Policy 3 (2021)﻿ [LINK] [PDF]
 
 "Spatial sensitivity Analysis for Urban Hotspots using Cell Phone Traces", J. Wu, E. Frias-Martinez, V. Frias-Martinez, Environment and Planning B: Urban Analytics and City Science  [LINK][PDF] [PDF SUPPLEMENTARY MATERIAL]
-
-2020:
 
 "Addressing Under-Reporting to Enhance Fairness and Accuracy in Mobility-based Crime Prediction", J. Wu, E. Frias-Martinez, V. Frias-Martinez, ACM SIGSPATIAL 2020﻿ [PDF][LINK][YOUTUBE]
 
@@ -33,8 +30,6 @@ author_profile: true
 
 "Harnessing Cell Phone Traces to Model the Spread of Zika in Colombia", D. Perrota, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzioni, A. Vespigniani, NetSciX 2020, Tokio, Japan [PDF][PPT]
 
-2019:
-
 "The inverted U-shaped effect of urban hotspots spatial compactness on urban economic growth", Xu, W., Chen, H., Frias-Martinez, E., Cebrian, M., & Li, X. (2019). Royal Society open science, 6(11), 181640.﻿ , https://arxiv.org/abs/1908.05530, [RSOS]
 
 "Comparing Sources of Mobility Information for Modelling the Spread of Zika", D. Perrotta, E.Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzoni, A. Vespignani, ﻿﻿﻿Netmob 2019 [PDF]
@@ -43,11 +38,7 @@ author_profile: true
 
 "Analysis of Post-Migration Mobility and Social Ties of Internal Migrants"﻿﻿﻿,V. Frias-Martinez, L. Hong, J. Wu, A. Villareal, E. Frias-Martinez, Netmob 2019 [PDF]
 
- 
-
-2018:
-
-"Characterization of Internal Migrant Behavior in the Immediate Post-Migration Period using Cell Phone Traces﻿",  L. Hong, J. Wu, E. Frias-Martinez, A. Villarreal, V. Frias-Martinez, 10th ACM Int. Conf.Information and Communication Technologies and Development (ICTD) ﻿ [PDF]
+ "Characterization of Internal Migrant Behavior in the Immediate Post-Migration Period using Cell Phone Traces﻿",  L. Hong, J. Wu, E. Frias-Martinez, A. Villarreal, V. Frias-Martinez, 10th ACM Int. Conf.Information and Communication Technologies and Development (ICTD) ﻿ [PDF]
 
 "Modelling the Epidemics Spread of Zika Using Mobile Phone Data in Colombia".  D. Perrotta, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzoni,  A. Vespignani, ﻿Conference on Complex  Systems 2018 [PDF]
 
@@ -57,19 +48,13 @@ author_profile: true
 
 "MobInsight: A Framework using Semantic Neighborhood Features for Localized Interpretations of Urban Mobility", S. Park, J. Serra, E. Frias-Martinez, N. Oliver, ACM Transactions on Interactive Intelligent Systems (TiiS) 8 (3), 23﻿[PDF][Link]﻿
 
- 
-
-2017:
-
-"Estimación de la pobreza utilizando datos de teléfonoscelulares: evidencia de Guatemala﻿" , M Hernandez, L Hong, V Frias-Martinez, A Whitby, E Frias-Martinez,﻿ Manual sobre utilidades de Big Data para Bienes Publicos (Invited Book Chapter) [Link][Book Chapter]
+ "Estimación de la pobreza utilizando datos de teléfonoscelulares: evidencia de Guatemala﻿" , M Hernandez, L Hong, V Frias-Martinez, A Whitby, E Frias-Martinez,﻿ Manual sobre utilidades de Big Data para Bienes Publicos (Invited Book Chapter) [Link][Book Chapter]
 
 "Climate Change Induced Migrations from a Cell Phone Perspective", S. Isaacman, V. Frias-Martinez, L. Hong, E. Frias-Martinez, NetMob 2017 [PDF][Poster]
 
 "LDA Mapping of Regional Socioeconomic Status", L. Hong, E. Frias-Martinez, V. Frias-Martinez, NetMob 2017 [PDF][BOOK of Abstracts-Oral]
 
 "Estimating poverty using cell phone data: evidence from Guatemala", M Hernandez, L Hong, V Frias-Martinez, A Whitby, E Frias-Martinez, World Bank Group Policy Research Paper﻿﻿ [PDF][Link]
-
-﻿2016:
 
  "MobInsight: Understanding Urban Mobility with Crowd-Powered Neighborhood Characterizations", S. Park, M. Bourqui, E. Frias-Martinez, 16th Int. Conf. Data Mining (ICDM 2016) [PDF]
 
@@ -78,8 +63,6 @@ author_profile: true
 "Peer-to-Peer microlending platforms: Characterization of online traits", G. Paruthi, E. Frias-Martinez, V. Frias-Martinez, IEEE Conf. Big Data 2016 [PDF] 
 
 "The Role of Rating and Loan Characteristics in Online Microfunding Behaviors", ﻿﻿ G. Paruthi, E. Frias-Martinez, V. Frias-Martinez﻿,  Bloomberg Data for Good Exchange 2016 ﻿[PDF]
-
-﻿2015:
 
 “Comparing and modeling land use organization in cities”, M. Lenormand , M. Picornell, O.G. Cantu-Ros, T. Louail, R. Herranz, M. Barthelemy, E. Frias-Martinez k, M. San Miguel  and J.J. Ramasco, Royal Society Open Science 2, 1504-59 (2015)﻿ [Open Access]
 
@@ -97,11 +80,7 @@ author_profile: true
 
 “Uncovering the spatial structure of mobility networks", T. Louail, M. Lenormand, M. Picornell, O. Garcia Cantu, R. Herranz, E. Frias-Martinez, J. Ramasco, and M. Barthelemy, Nature Communications,  Volume: 6, Article number: 6007 [Nature Link][ArXiv]
 
- 
-
-2014:
-
-“Spectral Clustering for Sensing Urban Land Use using Twitter Activity", V. Frias-Martinez, E. Frias-Martinez,  Engineering Applications of Artificial Intelligence, Vol. 35, October 2014, Pages 237–245, 2014 [PDF][Elsevier Link]
+ “Spectral Clustering for Sensing Urban Land Use using Twitter Activity", V. Frias-Martinez, E. Frias-Martinez,  Engineering Applications of Artificial Intelligence, Vol. 35, October 2014, Pages 237–245, 2014 [PDF][Elsevier Link]
 
 “Crowdsourcing Land Use Maps via Twitter”, E. Frias-Martinez, V. Frias-Martinez, KDD 2014 Workshop in Data Science for Social Good, 2014  [PDF]
 
@@ -121,8 +100,6 @@ author_profile: true
 
  "Consensus Clustering for Urban Land Use Analysis using Cell Phone Network Data﻿", V. Frias-Martinez, V.Soto, A. Sanchez, E. Frias-Martinez, Int. Journal of Ad-Hoc and Ubiquitous Computing, Vol. 17, No. 1 (2014) pp. 39 - 58. [PDF]
 
-2013:
-
  "Characterizing Social Response to Urban Earthquakes using Cell-Phone Network Data: The 2012 Oaxaca Earthquake", B. Moumny, V. Frias-Martinez, E. Frias-Martinez, Pervasive Urban Applications -PURBA 2013, Zurich,Switzerland 2013. [PDF]﻿
 
 "A tale of 2 continents and 4 cities about the influence of demographics and social constraints on ride-sharing﻿", Blerim Cici, Enrique Frías-Martínez, Nikolaos Laoutaris﻿, arXive [PDF]
@@ -139,10 +116,6 @@ author_profile: true
 
 "Adaptive Non-Parametric Identification of Dense Areas Using Cell Phone Records for Urban Analysis", A. Rubio, A. Sanchez, E. Frias-Martinez, Int. J. Engineering Applications of Artificial Intelligence (EAAI), Vol. 26(1), Jan 2013, pp. 551-563 [PDF][External Link]﻿
 
- 
-
-2012:
-
 "Uncovering the Spatio-Temporal Structure of Social Networks using Cell Phone Records", Luis G. Moyano, Oscar Rocardo Moll Thomae, E. Frias-Martinez, 2012 IEEE ICDM International Workshop on Data Mining Networks (DaMNet 2012), Brussels, Belgium [PDF][External Link]
 
 "Characterizing Urban Landscapes using Geolocated Tweets", V. Frias-Martinez, V. Soto, H. Hohwald, E. Frias-Martinez, 2012 Int. Conference on Social Computing (SocialCom), Amsterdam, The Nederlands, 2012 [PDF] [External Link]
@@ -157,10 +130,6 @@ author_profile: true
 
 "Fermis Sibyl: Mining the gamma-ray sky for dark matter subhaloes", N. Mirabal, V. Frias-Martinez, T. Hassan, E. Frias-Martinez, Monthly Notices Royal Astronomical Society (2012) [PDF]
 
- 
-
-2011:
-
 "An Agent-Based Model of Epidemic Spread using Human Mobility and Social Network Information", E. Frias-Martinez, G. Williamson, V. Frias-Martinez, The 3rd IEEE Int. Conf. on Social Computing (SocialCom 2011), Boston, MA, USA [PDF][External Link][Presentation]
 
 "Urban Analysis for the XXI Century: Using Pervasive Infrastructures for Modeling Urban Dynamics", E. Frias-Martinez, XXI Jornadas Telecom: Las TIC en las Ciudades del Futuro, Santander, 2011 . Best Paper Award in Smart Cities.[PDF][Presentation]
@@ -173,14 +142,9 @@ author_profile: true
 
 "Multi-dimensional MR spectroscopy: towards a better understanding of hepatic encephalopathy", M.K. Sarna, A. Huda, R. Nagarajan, C.H. Hinkin, N. Wilson, R.K. Gupta, E. Frias-Martinez, J. Sayre, B. Guze, S.-H. Han, M.A. Thomas, Metabolic Brain Diseases 2011. [PDF][External Link].
 
-2010 and before:
-
- 
+# 2010 and before:
 
 URBAN COMPUTING/SMART CITIES
-
- 
-
 "The Role of Telco Companies in Human Mobility Applications", E. Frias-Martinez in Tecnologias para lasComunicaciones del Futuro, ISBN 978-84-9916-948-4, 2010 pp. 126-130[External Link].
 
 "Querying Spatio-Temporal Patterns in Mobile Phone-Call Databases", M. Vieira , E. Frias-Martinez, P. Bakalov, V. Frias-Martinez, V. Tsotras, 11th Int. Conf. On Mobile Data Management MDM2010, Kansas City, Missouri. [PDF][External Link].
@@ -188,11 +152,7 @@ URBAN COMPUTING/SMART CITIES
 "Characterizing Dense Urban Areas from Mobile Phone-Call Data: Discovery and Social Dynamics", M. Vieira, V. Frias-Martinez, N. Oliver, E. Frias-Martinez, 2nd Int. Conference on Social Computing (SocialCom2010), Minneapolis, Minnesota, USA. [PDF][External Link].
 
  
-
 BIG DATA FOR SOCIAL GOOD
-
- 
-
 "Socio-Economic Levels and Human Mobility", Vanessa Frias-Martinez, Jess Virseda and Enrique Fras-Martnez, Qual Meets Quant Workshop - QMQ 2010 (at the International Conference on Information & Communication Technologies and Development, ICTD 2010), London, UK. [PDF][External Link].
 
 "The Anatomy of Mobile Handsets: On the development of effective cell phone services", V. Frias-Martinez, J. Virseda, E. Frias-Martinez, 2nd International Conference on M4D - Mobile Communication Technology for Development,Kampala, Uganda, November 2010. [PDF][External Link].
@@ -203,10 +163,8 @@ BIG DATA FOR SOCIAL GOOD
 
 "A Gender-centric Analysis of Calling Behavior in a Developing Economy Using Call Detail Records", V. Frias-Martinez, E. Frias-Martinez and N. Oliver, AAAI 2010 Spring Symposia Artificial Intelligence for Development, AI-D 2010, Stanford, USA. [PDF][External Link].
 
- 
 
 USER MODELING
-
 "ARBUD: A Reusable Architecture for Building User Models from Massive Datasets", H. Hohwald, E. Frias-Martinez, N. Oliver, Workshop on Pervasive User Modeling and Personalization (PUMP), UMAP 2010, Hawaii, USA.[PDF][External Link].
 
 "User Modeling for Telecommunication Applications: Experiences and Practical Implications", H. Hohwald, E. Frias-Martinez, UMAP 2010 - Industrial Track, Hawaii, USA. [PDF][External Link].
@@ -235,12 +193,8 @@ Modeling Human Behavior in User-Adaptive Systems: Recent Advances Using Soft Com
 
 Recent Soft Computing Approaches to User Modeling in Adaptive Hypermedia, Frias-Martinez E., Magoulas G.D., Chen S., and Macredie R., In Paul De Bra, Wolfgang Nejdl (eds), Adaptive Hypermedia and adaptive web-based systems, Eindhoven, The Netherlands, Aug. 2004, LNCS 3137, Springer, 104-113.[PDF][External Link]
 
- 
-
-WEB MINING / DATA MINIG
-
- 
-"Analyzing the Role of Dimension Arrangement for Data Visualization in Radviz", L. di Caro, V. Frias-Martinez, E. Frias-Martinez, PAKDD 2010, Hyderabad, India. [PDF][External Link].
+ WEB MINING / DATA MINIG
+ "Analyzing the Role of Dimension Arrangement for Data Visualization in Radviz", L. di Caro, V. Frias-Martinez, E. Frias-Martinez, PAKDD 2010, Hyderabad, India. [PDF][External Link].
  
 "Automatic Generation of Cognitive Theories using Genetic Programming", E. Frias-Martinez, F. Gobet, in Minds and Machines: Journal of Artificial Intelligence, Philosophy and Cognitive Science, 17(3), 287-309, 2007. [PDF][External Link].
  
@@ -253,9 +207,7 @@ WEB MINING / DATA MINIG
 "A Prediction Model for User Access Sequences", E. Frias-Martinez, V. Karamcheti, in Proc. 4th WEBKDD Web Mining for Usage Patterns and User Profiles Workshop part of The Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 23-26 July 2002, Edmonton, Canada, pp. 53-62. [PDF][External Link].
 
  
-
 SOCIAL NETWORKS ANALYSIS
-
 "How did you get to know that? A traceable word-of-mouth algorithm", M. Cebrian, E.Frias-Martinez, H. Hohwald, R. Lara, N. Oliver, Symposium on Social Intelligence and Networking (SIN09), August 2009, Vancouver, Canada. [PDF][External Link].
 
 "Word-of-mouth algorithms: What you do not know will hurt you", M. Cebrian, E. Frias-Martinez, Workshop on Multimodal Sensor-Based Systems and Mobile Phones for Social Computing, part of 11th Int. Conf. on Multimodal Interfaces 2009 (ICMI 2009), Cambridge, MA, November 2009. [PDF][External Link].
@@ -263,9 +215,7 @@ SOCIAL NETWORKS ANALYSIS
  "Introducing Causality and Traceability in Word-of-Mouth Algorithms", H. Hohwald, E. Frias-Martinez, M. Cebrian, N. Oliver, Workshop on Information in Networks (WIN), September 25-26, NYU, NYC, USA, 2009.[PDF][External Link].
 
  
-
 BIOMETRICS / IMAGE PROCESSING
-
 "Three-Dimensional Facial Surface Modeling Applied to Recognition ", A.B. Moreno, A. Sanchez, E. Frias-Martinez, Int. Journal Engineering Applications of Artificial Intelligence 22 (2009), 1233-1244. [PDF][External Link].
 
 "Robust Representation of 3D Faces for Recognition", A.B. Moreno, A. Sanchez, E. Frias-Martinez, in International Journal of Pattern Recognition and Artificial Intelligence Vol. 20(8), 2006. [PDF][External Link].
@@ -279,11 +229,7 @@ BIOMETRICS / IMAGE PROCESSING
 "Design of a Fuzzy Distance for a CBIR System", Oscar D. Robles Snchez, E. Frias-Martinez in Proceedings of the Second European Symposium on Intelligent Technologies, Hybrid Systems and their implementation on Smart Adaptive Systems, 19-21 September 2002, Albufeira, Portugal. [PDF][External Link].
 
  
-
 MEDICAL APPLICATIONS & USER MODELING
-
- 
-
 "Tracking medication information accross medical records", J. E. Iglesias, K. Rocks, N. Jadahanshad, E. Frias-Martinez, A.T. Bui, American Medical Informatics Asociation (AMIA) 2009 Anual Symposium. [PDF][External Link].
 
 "Improved Spectral resolution in 2D Localized Correlated Spectroscopy Using Enhanced Covariance NMR", N. Wilson, E. Frias-Martinez, M.A. Thomas, Proc. Int. Society for Margnetic Resonance in Medicine 2009 (ISMRM). [PDF][External Link].
@@ -295,9 +241,7 @@ MEDICAL APPLICATIONS & USER MODELING
 Profit-Based Two-dimensional 1H MR Spectroscopic Quantitation of metabolies in healthy Human Brain using 3T and 1.5T MRI scanners, M.A.Thomas, E. Frias-Martinez, S. Liu, et al., RSNA 2007 Proc. of the Radiological Society of North America, Chicago, USA, Nov. 2007. [PDF][External Link].
 
  
-
 SOFT COMPUTING / FUZZY LOGIC
-
 "Efficient Fuzzy Compiler for SIMD Architectures", E. Frias-Martinez, J. Gutirrez-Ros, F. Fernandez, in International Journal of Applied Soft Computing, Vol. 4(3), 2004, pp. 287-30. [PDF][External Link].
 
 "Design of a Lukasiewicz Rule-Driven Fuzzy Processor", E. Frias-Martinez, in Soft Computing , a Fusion of Foundations, Methodologies and Applications, Vol. 7(2002), no.1,pp. 65-71. [PDF][External Link].
@@ -329,9 +273,7 @@ SOFT COMPUTING / FUZZY LOGIC
 "Rule-Driven Processing for a Generic T-norm (in Spanish), E. Frias-Martinez, J. Gutirrez Ros, Felipe Fernndez, in First European EUSFLAT-ESTYLF Joint Conference, Palma, Spain, Sep. 1999, pp. 191-1941. [PDF][External Link].
 
  
-
 Ph.D. & MASTER THESIS
-
 "High-Speed Fully-Programmable Fuzzy System on Standard Architectures" - in Spanish "Modelo de controlador borroso completamente programable de altas prestaciones y su desarrollo", Ph.D. Thesis, Universidad Politecnica de Madrid [PDF][External Link]
 
 "User Modelling for Digital Libraries: A Data Mining Approach", Ph.D. Thesis. Brunel University [PDF] [External Link]
