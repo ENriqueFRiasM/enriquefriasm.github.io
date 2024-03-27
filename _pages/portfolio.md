@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Patents"
 permalink: /portfolio/
 author_profile: true
 ---
 
-- "Method for Gender Identification of a Cell Phone Subscriber", United States Patent US8457605 B2 [PDF]
+- "Method for Gender Identification of a Cell Phone Subscriber", [United States Patent US8457605 B2](https://patents.google.com/patent/US20120083255)
 
 - "Content recommendation method and system based on psychological factors from a use profile", US Patent Application Publication US8560486 B2[﻿LINK﻿]
 
