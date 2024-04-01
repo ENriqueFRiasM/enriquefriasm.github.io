@@ -14,5 +14,5 @@ author_profile: true
 * "Introduction to Temporal Series Analysis", MSc in Data Science, Universidad Camilio Jose Cela, 21/22, 22/23
 * "Applied Machine Learning", MSc in Data Science, Universidad Camilo Jose Cela, 21/22, 22/23
 * "Smart Data and the City", Degree en Urban Planning, Universidad Camilio Jose Cela, 21/22
-* "Introduction to Promgramming", Degree in Computer Science, Universidad Camilio Jose Cela, 21/22, 22/23
+* "Introduction to Programming", Degree in Computer Science, Universidad Camilio Jose Cela, 21/22, 22/23
 * "Introduction to Operative Systems", Degree in Computer Science, Universidad Camilio Jose Cela, 21/22, 22/23
