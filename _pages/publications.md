@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+As of April 2024, over 5400 citations, h-index=37, i-index=70
 
 "A Cybernetic Perspective on Generative AI in Education: From Transmission to Coordination.", Griffiths, D., Frías-Martínez, E., Tlili, A., & Burgos, D. (2024), in International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI), 8(5), 15-24, 2024. [LINK]
 
