@@ -20,21 +20,21 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "Improving epidemic risk maps using mobility information from mobile network data", Elisa Cabana, Andra Lutu, Enrique Frias-Martinez, Nikolaos Laoutaris, Proc.30th Int. Conf. Advances in Geographic Information Systems, 2022 [LINK](https://dl.acm.org/doi/10.1145/3557915.3561012)  [PDF](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/1616/Improving%20epidemic%20risk%20maps%20using%20mobility%20information.pdf?sequence=1)
 
-"Using mobile network data to color epidemic risk maps", Elisa Cabana, Andra Lutu, Enrique Frias-Martinez, Nikolaos Laoutaris, Proc.3rd ACM SIGSPATIAL Int.Workshop on Spatial Computing for Epidemiology, 2022 [LINK][PDF]
+"Using mobile network data to color epidemic risk maps", Elisa Cabana, Andra Lutu, Enrique Frias-Martinez, Nikolaos Laoutaris, Proc.3rd ACM SIGSPATIAL Int.Workshop on Spatial Computing for Epidemiology, 2022 [LINK](https://dl.acm.org/doi/10.1145/3557995.3566120) [PDF](https://dataoceanlab.github.io/spatial-epi-2022/files/paper_5.pdf)
 
-"Comparing sources of mobility for modelling the epidemic spread of Zika virus in Colombia", D Perrotta, E Frias-Martinez, A Pastore y Piontti, Q Zhang, M Luengo-Oroz, D Paolotti, M Tizzoni, A Vespignani, PLoS Neglected Tropical Diseases 16 (7), 2022 [LINK]
+"Comparing sources of mobility for modelling the epidemic spread of Zika virus in Colombia", D Perrotta, E Frias-Martinez, A Pastore y Piontti, Q Zhang, M Luengo-Oroz, D Paolotti, M Tizzoni, A Vespignani, PLoS Neglected Tropical Diseases 16 (7), 2022 [HTML](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010565)
 
-"Modeling International Mobility using Roaming Cell Phone Traces during COVID-19 Pandemic" M Luca, B Lepri, E Frias-Martinez, A Lutu, EPJ Data Science 11 (22), 2022 [LINK]
+"Modeling International Mobility using Roaming Cell Phone Traces during COVID-19 Pandemic" M Luca, B Lepri, E Frias-Martinez, A Lutu, EPJ Data Science 11 (22), 2022 [HTML](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00335-9) [PDF])https://link.springer.com/content/pdf/10.1140/epjds/s13688-022-00335-9.pdf)
 
-﻿“Trade-offs between individual and ensemble forecasts of an emerging infectious disease”, Rachel JOidtman, Elisa Omodei, Moritz UG Kraemer,...,Enrique Frias-Martinez, Manuel Garcia-Herranz,Alex Perkins. Nature Commun 12, 5379, 2021﻿ [LINK][PDF]
+﻿“Trade-offs between individual and ensemble forecasts of an emerging infectious disease”, Rachel Jointman, Elisa Omodei, Moritz UG Kraemer,...,Enrique Frias-Martinez, Manuel Garcia-Herranz,Alex Perkins. Nature Commun 12, 5379, 2021﻿ [HTML](https://www.nature.com/articles/s41467-021-25695-0)
 
-"Exploring night and day socio-spatial segregation based on mobile phone data: The case of Medellin (Colombia)", B Moya-Gómez, M Stępniak, JC García-Palomares, E Frías-Martínez, Javier Gutiérrez, in Computers, Environment and Urban Systems 89, 2021 [LINK]
+"Exploring night and day socio-spatial segregation based on mobile phone data: The case of Medellin (Colombia)", B Moya-Gómez, M Stępniak, JC García-Palomares, E Frías-Martínez, Javier Gutiérrez, in Computers, Environment and Urban Systems 89, 2021 [LINK](https://www.sciencedirect.com/science/article/pii/S019897152100082X) [PDF](https://www.researchgate.net/profile/Borja-Moya-Gomez/publication/352374233_Exploring_night_and_day_socio-spatial_segregation_based_on_mobile_phone_data_The_case_of_Medellin_Colombia/links/60c72a204585157774d75f43/Exploring-night-and-day-socio-spatial-segregation-based-on-mobile-phone-data-The-case-of-Medellin-Colombia.pdf)
 
-"Análisis espacio-temporal de la segregación social a partir de datos detelefonía móvil: el caso de medellín (colombia)﻿" , B. Moya-Gomez, M Stepniak, J. Garcia-Palomares, E. Frias-Martinez, J. Gutierrez, ﻿III Congreso Int Tec Informacion Geografica, Buenos Aires, Argentina, 2021 [LINK]
+"Análisis espacio-temporal de la segregación social a partir de datos detelefonía móvil: el caso de medellín (colombia)﻿" , B. Moya-Gomez, M Stepniak, J. Garcia-Palomares, E. Frias-Martinez, J. Gutierrez, ﻿III Congreso Int Tec Informacion Geografica, Buenos Aires, Argentina, 2021 [LINK](https://dialnet.unirioja.es/servlet/articulo?codigo=8537656)
 
-“The contribution of telco data to fight the COVID-19 pandemic: Experience of Telefonica throughoutits footprint”, Data & Policy 3 (2021)﻿ [LINK][PDF]
+“The contribution of telco data to fight the COVID-19 pandemic: Experience of Telefonica throughoutits footprint”, Data & Policy 3 (2021)﻿ [LINK](https://www.cambridge.org/core/journals/data-and-policy/article/contribution-of-telco-data-to-fight-the-covid19-pandemic-experience-of-telefonica-throughout-its-footprint/ED596CB342AAC70D009C6A226814999F) [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/ED596CB342AAC70D009C6A226814999F/S2632324921000067a.pdf/the-contribution-of-telco-data-to-fight-the-covid-19-pandemic-experience-of-telefonica-throughout-its-footprint.pdf)
 
-"Spatial sensitivity Analysis for Urban Hotspots using Cell Phone Traces", J. Wu, E. Frias-Martinez, V. Frias-Martinez, Environment and Planning B: Urban Analytics and City Science  [LINK][PDF] [PDF SUPPLEMENTARY MATERIAL]
+"Spatial sensitivity Analysis for Urban Hotspots using Cell Phone Traces", J. Wu, E. Frias-Martinez, V. Frias-Martinez, Environment and Planning B: Urban Analytics and City Science  [LINK](https://journals.sagepub.com/doi/pdf/10.1177/2399808320985843) [PDF](https://par.nsf.gov/servlets/purl/10218376)
 
 "Addressing Under-Reporting to Enhance Fairness and Accuracy in Mobility-based Crime Prediction", J. Wu, E. Frias-Martinez, V. Frias-Martinez, ACM SIGSPATIAL 2020﻿ [PDF][LINK][YOUTUBE]
 
