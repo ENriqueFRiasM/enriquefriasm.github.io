@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Management
-* Director of the IBM-UNIR Chair on Data Sciende for Education, UNIR, Sept. 23- present
+* Director of the IBM-UNIR Chair on Data Science for Education, UNIR, Sept. 23- present
 * Director of the Master in Data Science, Universidad Camilo Jose Cela, Sep 21 - Aug. 23
 
 # Teaching
