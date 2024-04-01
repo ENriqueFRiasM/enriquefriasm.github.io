@@ -11,14 +11,14 @@ author_profile: true
 {% endif %}
 As of April 2024, over 5400 citations, h-index=37, i-index=70
 
-"A Cybernetic Perspective on Generative AI in Education: From Transmission to Coordination", Griffiths, D., Frías-Martínez, E., Tlili, A., & Burgos, D. (2024), in International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI), 8(5), 15-24, 2024. [LINK](https://www.ijimai.org/journal/bibcite/reference/3430)[PDF](https://reunir.unir.net/bitstream/handle/123456789/16207/A%20Cybernetic%20Perspective%20on%20Generative%20AI%20in%20Education.pdf?sequence=1&isAllowed=y)
+"A Cybernetic Perspective on Generative AI in Education: From Transmission to Coordination", Griffiths, D., Frías-Martínez, E., Tlili, A., & Burgos, D. (2024), in International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI), 8(5), 15-24, 2024. [LINK](https://www.ijimai.org/journal/bibcite/reference/3430)  [PDF](https://reunir.unir.net/bitstream/handle/123456789/16207/A%20Cybernetic%20Perspective%20on%20Generative%20AI%20in%20Education.pdf?sequence=1&isAllowed=y)
 
 "Machine Learning for Higher Education: Current State and Future Prospects", E. Frias-Martinez, Radical Solutions for Artificial Intelligence and Digital Transformation in Education (Book Chapter), Springer-Verlag, 2024 [LINK]
 
 "Enhancing short-term crime prediction with human mobility flows and deep learning architectures", J Wu, SM Abrar, N Awasthi, E Frias-Martinez, V Frias-Martinez, 
-EPJ data science 11 (1), 53, 2022 [LINK][PDF]
+EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/10.1140/epjds/s13688-022-00366-2.pdf)
 
-"Improving epidemic risk maps using mobility information from mobile network data", Elisa Cabana, Andra Lutu, Enrique Frias-Martinez, Nikolaos Laoutaris, Proc.30th Int. Conf. Advances in Geographic Information Systems, 2022
+"Improving epidemic risk maps using mobility information from mobile network data", Elisa Cabana, Andra Lutu, Enrique Frias-Martinez, Nikolaos Laoutaris, Proc.30th Int. Conf. Advances in Geographic Information Systems, 2022 [LINK](https://dl.acm.org/doi/10.1145/3557915.3561012)  [PDF](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/1616/Improving%20epidemic%20risk%20maps%20using%20mobility%20information.pdf?sequence=1)
 
 "Using mobile network data to color epidemic risk maps", Elisa Cabana, Andra Lutu, Enrique Frias-Martinez, Nikolaos Laoutaris, Proc.3rd ACM SIGSPATIAL Int.Workshop on Spatial Computing for Epidemiology, 2022 [LINK][PDF]
 
