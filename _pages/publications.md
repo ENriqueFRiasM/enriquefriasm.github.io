@@ -9,12 +9,28 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+"A Cybernetic Perspective on Generative AI in Education: From Transmission to Coordination.", Griffiths, D., Frías-Martínez, E., Tlili, A., & Burgos, D. (2024), in International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI), 8(5), 15-24, 2024. [LINK]
+
+"Machine Learning for Higher Education: Current State and Future Prospects", E. Frias-Martinez, Radical Solutions for Artificial Intelligence and Digital Transformation in Education (Book Chapter), Springer-Verlag, 2024 [LINK]
+
+"Enhancing short-term crime prediction with human mobility flows and deep learning architectures", J Wu, SM Abrar, N Awasthi, E Frias-Martinez, V Frias-Martinez, 
+EPJ data science 11 (1), 53, 2022 [LINK][PDF]
+
+"Improving epidemic risk maps using mobility information from mobile network data", Elisa Cabana, Andra Lutu, Enrique Frias-Martinez, Nikolaos Laoutaris, Proc.30th Int. Conf. Advances in Geographic Information Systems, 2022
+
+"Using mobile network data to color epidemic risk maps", Elisa Cabana, Andra Lutu, Enrique Frias-Martinez, Nikolaos Laoutaris, Proc.3rd ACM SIGSPATIAL Int.Workshop on Spatial Computing for Epidemiology, 2022 [LINK][PDF]
+
+"Comparing sources of mobility for modelling the epidemic spread of Zika virus in Colombia", D Perrotta, E Frias-Martinez, A Pastore y Piontti, Q Zhang, M Luengo-Oroz, D Paolotti, M Tizzoni, A Vespignani, PLoS Neglected Tropical Diseases 16 (7), 2022 [LINK]
+
+"Modeling International Mobility using Roaming Cell Phone Traces during COVID-19 Pandemic" M Luca, B Lepri, E Frias-Martinez, A Lutu, EPJ Data Science 11 (22), 2022 [LINK]
 
 ﻿“Trade-offs between individual and ensemble forecasts of an emerging infectious disease”, Rachel JOidtman, Elisa Omodei, Moritz UG Kraemer,...,Enrique Frias-Martinez, Manuel Garcia-Herranz,Alex Perkins. Nature Commun 12, 5379, 2021﻿ [LINK][PDF]
 
+"Exploring night and day socio-spatial segregation based on mobile phone data: The case of Medellin (Colombia)", B Moya-Gómez, M Stępniak, JC García-Palomares, E Frías-Martínez, Javier Gutiérrez, in Computers, Environment and Urban Systems 89, 2021 [LINK]
+
 "Análisis espacio-temporal de la segregación social a partir de datos detelefonía móvil: el caso de medellín (colombia)﻿" , B. Moya-Gomez, M Stepniak, J. Garcia-Palomares, E. Frias-Martinez, J. Gutierrez, ﻿III Congreso Int Tec Informacion Geografica, Buenos Aires, Argentina, 2021 [LINK]
 
-“The contribution of telco data to fight the COVID-19 pandemic: Experience of Telefonica throughoutits footprint”, Data & Policy 3 (2021)﻿ [LINK] [PDF]
+“The contribution of telco data to fight the COVID-19 pandemic: Experience of Telefonica throughoutits footprint”, Data & Policy 3 (2021)﻿ [LINK][PDF]
 
 "Spatial sensitivity Analysis for Urban Hotspots using Cell Phone Traces", J. Wu, E. Frias-Martinez, V. Frias-Martinez, Environment and Planning B: Urban Analytics and City Science  [LINK][PDF] [PDF SUPPLEMENTARY MATERIAL]
 
@@ -24,9 +40,11 @@ author_profile: true
 
 "Predicción del Número de Infectados por Enfermedades víricas usando Modelos SIR y Movilidad generada a Partir de la red de telefonia móvi", E. Frias-Martinez, Book Chapter of ‘El Mito del Algoritmo: cuentos y cuentas de la Inteligencia Artificial’ (editorial Anaya Multimedia)﻿ [LINK]
 
-"Characterization of the COVID-19 Pandemic Impact on a Mobile Network Operator Traffic. Lutu, A., Perino, D., Bagnulo, M., Frias-Martinez, E., & Khangosstar, J. (2020, October). A In ACM IMC.﻿ [PDF][PPT]
+"A Characterization of the COVID-19 Pandemic Impact on a Mobile Network Operator Traffic. Lutu, A., Perino, D., Bagnulo, M., Frias-Martinez, E., & Khangosstar, J. (2020, October). A In ACM IMC.﻿ [PDF][PPT]
 
-"Actionable forecasting for emerging infectious diseases: a case study of the 2015-2017 Zika epidemic in Colombia, Oidtman, R. J., Omodei, E., Kraemer, M. U., Castaņeda-Orjuela, C. A., Rivera, E. C., Misnaza-Castrillón, S., E. Frias-Martinez & García-Herranz, M.,  In 2020 ESA Annual Meeting [PDF]﻿
+"Actionable forecasting for emerging infectious diseases: a case study of the 2015-2017 Zika epidemic in Colombia, Oidtman, R. J., Omodei, E., Kraemer, M. U., Castaņeda-Orjuela, C. A., Rivera, E. C., Misnaza-Castrillón, S., E. Frias-Martinez & García-Herranz, M.,  In 2020 ESA Annual Meeting [PDF]
+
+"Flow descriptors of human mobility networks", D Pastor-Escuredo, E Frias-Martinez, arXiv preprint arXiv:2003.07279 [LINK]
 
 "Harnessing Cell Phone Traces to Model the Spread of Zika in Colombia", D. Perrota, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzioni, A. Vespigniani, NetSciX 2020, Tokio, Japan [PDF][PPT]
 
