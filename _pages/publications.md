@@ -11,7 +11,7 @@ author_profile: true
 {% endif %}
 As of April 2024, over 5400 citations, h-index=37, i-index=70
 
-"A Cybernetic Perspective on Generative AI in Education: From Transmission to Coordination.", Griffiths, D., Frías-Martínez, E., Tlili, A., & Burgos, D. (2024), in International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI), 8(5), 15-24, 2024. [LINK]
+"A Cybernetic Perspective on Generative AI in Education: From Transmission to Coordination", Griffiths, D., Frías-Martínez, E., Tlili, A., & Burgos, D. (2024), in International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI), 8(5), 15-24, 2024. [LINK](https://www.ijimai.org/journal/bibcite/reference/3430)[PDF](https://reunir.unir.net/bitstream/handle/123456789/16207/A%20Cybernetic%20Perspective%20on%20Generative%20AI%20in%20Education.pdf?sequence=1&isAllowed=y)
 
 "Machine Learning for Higher Education: Current State and Future Prospects", E. Frias-Martinez, Radical Solutions for Artificial Intelligence and Digital Transformation in Education (Book Chapter), Springer-Verlag, 2024 [LINK]
 
