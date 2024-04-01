@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my [Industrial CV], my [short academic CV] or my [long academic cv](in spanish).
+
+
 Education
 ======
 * Ph.D in Computer Science, Universidad Politecnica de Madrid (UPM), Spain
