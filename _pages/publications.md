@@ -36,17 +36,15 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "Spatial sensitivity Analysis for Urban Hotspots using Cell Phone Traces", J. Wu, E. Frias-Martinez, V. Frias-Martinez, Environment and Planning B: Urban Analytics and City Science  [LINK](https://journals.sagepub.com/doi/pdf/10.1177/2399808320985843) [PDF](https://par.nsf.gov/servlets/purl/10218376)
 
-"Addressing Under-Reporting to Enhance Fairness and Accuracy in Mobility-based Crime Prediction", J. Wu, E. Frias-Martinez, V. Frias-Martinez, ACM SIGSPATIAL 2020﻿ [PDF][LINK][YOUTUBE]
+"Addressing Under-Reporting to Enhance Fairness and Accuracy in Mobility-based Crime Prediction", J. Wu, E. Frias-Martinez, V. Frias-Martinez, ACM SIGSPATIAL 2020﻿ [PDF](https://www.researchgate.net/profile/Enrique-Frias-Martinez/publication/347150224_Addressing_Under-Reporting_to_Enhance_Fairness_and_Accuracy_in_Mobility-based_Crime_Prediction/links/60096038299bf14088ae24a8/Addressing-Under-Reporting-to-Enhance-Fairness-and-Accuracy-in-Mobility-based-Crime-Prediction.pdf) [LINK](https://dl.acm.org/doi/abs/10.1145/3397536.3422205)
 
-"Measuring Topology and Flow Dynamics of Mobility Networks using Mobile Phone Data", D. Pastos-Escudero, E. Frias-Martinez, UrbanNet 2020﻿ [PDF]
+"Flow descriptors of human mobility networks", D. Pastos-Escudero, E. Frias-Martinez, arXiv 2020, arXiv:2003.07279.﻿ [PDF](https://arxiv.org/abs/2003.07279)
 
-"Predicción del Número de Infectados por Enfermedades víricas usando Modelos SIR y Movilidad generada a Partir de la red de telefonia móvi", E. Frias-Martinez, Book Chapter of ‘El Mito del Algoritmo: cuentos y cuentas de la Inteligencia Artificial’ (editorial Anaya Multimedia)﻿ [LINK]
+"Predicción del Número de Infectados por Enfermedades víricas usando Modelos SIR y Movilidad generada a Partir de la red de telefonia móvi", E. Frias-Martinez, Book Chapter of ‘El Mito del Algoritmo: cuentos y cuentas de la Inteligencia Artificial’ (editorial Anaya Multimedia)﻿ [LINK](https://www.amazon.es/mito-del-algoritmo-Inteligencia-Artificial-ebook/dp/B08BNBBW89)
 
-"A Characterization of the COVID-19 Pandemic Impact on a Mobile Network Operator Traffic. Lutu, A., Perino, D., Bagnulo, M., Frias-Martinez, E., & Khangosstar, J. (2020, October). A In ACM IMC.﻿ [PDF][PPT]
+"A Characterization of the COVID-19 Pandemic Impact on a Mobile Network Operator Traffic". Lutu, A., Perino, D., Bagnulo, M., Frias-Martinez, E., & Khangosstar, J. (2020, October). A In Proc. ACM internet measurement conference (IMC).﻿ [PDF](https://arxiv.org/pdf/2010.02781.pdf) [LINK](https://dl.acm.org/doi/10.1145/3419394.3423655)
 
-"Actionable forecasting for emerging infectious diseases: a case study of the 2015-2017 Zika epidemic in Colombia, Oidtman, R. J., Omodei, E., Kraemer, M. U., Castaņeda-Orjuela, C. A., Rivera, E. C., Misnaza-Castrillón, S., E. Frias-Martinez & García-Herranz, M.,  In 2020 ESA Annual Meeting [PDF]
-
-"Flow descriptors of human mobility networks", D Pastor-Escuredo, E Frias-Martinez, arXiv preprint arXiv:2003.07279 [LINK]
+"Actionable forecasting for emerging infectious diseases: a case study of the 2015-2017 Zika epidemic in Colombia, Oidtman, R. J., Omodei, E., Kraemer, M. U., Castaņeda-Orjuela, C. A., Rivera, E. C., Misnaza-Castrillón, S., E. Frias-Martinez & García-Herranz, M.,  In 2020 ESA Annual Meeting [LINK](https://eco.confex.com/eco/2020/meetingapp.cgi/Paper/87301)
 
 "Harnessing Cell Phone Traces to Model the Spread of Zika in Colombia", D. Perrota, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzioni, A. Vespigniani, NetSciX 2020, Tokio, Japan [PDF][PPT]
 
