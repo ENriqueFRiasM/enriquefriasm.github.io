@@ -19,6 +19,8 @@ redirect_from:
 *  My paper "Spectral Clustering for Sensing Urban Land Use using Twitter Activity" has been featured in [ABC Newspaper](https://www.abc.es/tecnologia/redes/20141229/abci-tuitea-ciudad-marcha-201412291547.html) (spanish), [Muy Interesante](https://www.muyinteresante.com/tecnologia/3525.html), [﻿﻿Vanguardia de Mexico﻿](https://vanguardia.com.mx/tech/2628117-todo-lo-que-podran-saber-de-ti-cuando-escribas-un-tuit-PNVG2628117), [CBC News](https://www.cbc.ca/news/science/twitter-can-improve-urban-planning-1.2885615), [TIME.com](https://time.com/3650317/tweeting-partying-urban-planning/), [Phys.org](https://phys.org/news/2014-12-tweet-party-urban.html), [Science Daily](https://www.sciencedaily.com/releases/2014/12/141229081755.htm) among others.
 *  Our work in modeling H1N1 spreading has been featured in The Economist as an example of how Big data can be used to control Ebola: ["Ebola and Big data: Wainting on Hold"](https://www.economist.com/science-and-technology/2014/10/27/waiting-on-hold).
 * "Urban Analysis for the XXI Century: Using Pervasive Infrastructures for Modeling Urban Dynamics", Big Bang Data, CCCB Barcelona, Spain, 2014
+* Invited Speaker, 4th Annual International Workshop IMDEA, ["Collection, processing and exploitation of Call Detail Records at Telefónica for
+Smart Cities Applications"](Netwotkshttps://events.networks.imdea.org/content/workshop-2012/invited-speakers.html)
 * "Urban Informatics", Jornadas BigData CyL, Boecillo, Valladolid, 2013
 * "Urban Analysis for the XXI Century", Catedra Telefonica, Universidad de Valladolid, 2012
 * Rethink: 2012 Data Philantrophy - Panel Member, NYC, 2012
