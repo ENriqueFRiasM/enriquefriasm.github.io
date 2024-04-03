@@ -24,7 +24,7 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "Comparing sources of mobility for modelling the epidemic spread of Zika virus in Colombia", D Perrotta, E Frias-Martinez, A Pastore y Piontti, Q Zhang, M Luengo-Oroz, D Paolotti, M Tizzoni, A Vespignani, PLoS Neglected Tropical Diseases 16 (7), 2022 [HTML](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010565)
 
-"Modeling International Mobility using Roaming Cell Phone Traces during COVID-19 Pandemic" M Luca, B Lepri, E Frias-Martinez, A Lutu, EPJ Data Science 11 (22), 2022 [HTML](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00335-9) [PDF])https://link.springer.com/content/pdf/10.1140/epjds/s13688-022-00335-9.pdf)
+"Modeling International Mobility using Roaming Cell Phone Traces during COVID-19 Pandemic" M Luca, B Lepri, E Frias-Martinez, A Lutu, EPJ Data Science 11 (22), 2022 [HTML](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00335-9) [PDF](https://link.springer.com/content/pdf/10.1140/epjds/s13688-022-00335-9.pdf)
 
 ﻿“Trade-offs between individual and ensemble forecasts of an emerging infectious disease”, Rachel Jointman, Elisa Omodei, Moritz UG Kraemer,...,Enrique Frias-Martinez, Manuel Garcia-Herranz,Alex Perkins. Nature Commun 12, 5379, 2021﻿ [HTML](https://www.nature.com/articles/s41467-021-25695-0)
 
