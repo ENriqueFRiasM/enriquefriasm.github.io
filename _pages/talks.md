@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 # Conference Reviewer (Some of them ....)
-- PC Member PURBA 2017, ECML-PKDD 2017, UbiComp 2017, Digital Health 2017
+- PC member KDD 2020(Applied Data Science Track), ECML-PKDD 2020 (Demo Track, PC Applied Data Science Track), Sixth International Conference on Machine Learning, Optimization, and Data Science 2020
+- PC Member Netmob 2019 - Scientific Analysis of Mobile phone datasets, 7th International Workship on Pervasive Urban Applications (PURBA) 2018, 
+- PC Member 11th IEEE International Conference on Social Computing and Networking 2018, 
+- PC Member PURBA 2017, ECML-PKDD 2017, UbiComp 2017, Digital Health 2017, International Symposium on Big Data Management and Analytics BIDMA 2017  
 - PC member  UbiComp 2016, PURBA – Workshop on Pervasive Urban Aplications, ECML-PKDD 2016, FAB 2016 International Symposium on Foundations and Applications of Big Data Analytics, Mobile Data Management MDM 2016 Industrial Track, ACM Digital Health, ICDM Demo Session, International Symposium on Big Data Management and Analytics (BIDMA 2016), Second Workshop on Machine learning, Optimization and big Data (MOD 2016), IEA/AIE 2016﻿
 - PC Member ECML PKDD 2015, SocialCom 2015, Ubicomp 2015, 4th International Workshop on Pervasive Urban Applications PURBA 2015, NetMob 2015,  IEA/AIE 2015, Data Mining And Smart Cities Applications Workshop  (DAMASCA), Workshop on Machine learning, Optimization and big Data (MOD 2015),  Digital Health 2015, International Symposium on Foundations and Applications of Big Data Analytics
 - PC Member SocialCom  2014, Ubicomp 2014, PURBA 2014,IEA-AIE 2014, ECML/PKDD 2014, ACM Multimedia 2014, ENIC 2014, CHI 2014, ICCE 2014, CityLabs2014 
