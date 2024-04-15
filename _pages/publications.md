@@ -50,16 +50,15 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "The inverted U-shaped effect of urban hotspots spatial compactness on urban economic growth", Xu, W., Chen, H., Frias-Martinez, E., Cebrian, M., & Li, X. (2019). Royal Society open science, 6(11), 181640, [RSOS](https://royalsocietypublishing.org/doi/full/10.1098/rsos.181640) [arXiv](https://arxiv.org/abs/1908.05530)
 
+"Comparing Sources of Mobility Information for Modelling the Spread of Zika", D. Perrotta, E.Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzoni, A. Vespignani, ﻿﻿﻿Netmob 2019 [PDF](https://enriquefriasm.github.io/files/abstract_NetMob_PerrottaDaniela.28324716.pdf)
 
-"Comparing Sources of Mobility Information for Modelling the Spread of Zika", D. Perrotta, E.Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzoni, A. Vespignani, ﻿﻿﻿Netmob 2019 [PDF]
+"Comparison and Analysis of Migrant Identification Methods",  L. Hong, J. Wu, E. Frias-Martinez, A. Villareal, V. Frias-Martinez, Netmob 2019 [PDF](htps://enriquefriasm.github.io/files/ComparissonMigrantMethods.28324903.pdf)
 
-"Comparison and Analysis of Migrant Identification Methods",  L. Hong, J. Wu, E. Frias-Martinez, A. Villareal, V. Frias-Martinez, Netmob 2019 [PDF]
+"Analysis of Post-Migration Mobility and Social Ties of Internal Migrants"﻿﻿﻿,V. Frias-Martinez, L. Hong, J. Wu, A. Villareal, E. Frias-Martinez, Netmob 2019 [PDF](htps://enriquefriasm.github.io/files/AnalysisMobilitySOcialTies.28324934.pdf)
 
-"Analysis of Post-Migration Mobility and Social Ties of Internal Migrants"﻿﻿﻿,V. Frias-Martinez, L. Hong, J. Wu, A. Villareal, E. Frias-Martinez, Netmob 2019 [PDF]
+ "Characterization of Internal Migrant Behavior in the Immediate Post-Migration Period using Cell Phone Traces﻿",  L. Hong, J. Wu, E. Frias-Martinez, A. Villarreal, V. Frias-Martinez, 10th ACM Int. Conf.Information and Communication Technologies and Development (ICTD) [LINK](https://dl.acm.org/doi/10.1145/3287098.3287119)﻿[PDF](https://www.researchgate.net/publication/330265602_Characterization_of_internal_migrant_behavior_in_the_immediate_post-migration_period_using_cell_phone_traces)
 
- "Characterization of Internal Migrant Behavior in the Immediate Post-Migration Period using Cell Phone Traces﻿",  L. Hong, J. Wu, E. Frias-Martinez, A. Villarreal, V. Frias-Martinez, 10th ACM Int. Conf.Information and Communication Technologies and Development (ICTD) ﻿ [PDF]
-
-"Modelling the Epidemics Spread of Zika Using Mobile Phone Data in Colombia".  D. Perrotta, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzoni,  A. Vespignani, ﻿Conference on Complex  Systems 2018 [PDF]
+"Modelling the Epidemics Spread of Zika Using Mobile Phone Data in Colombia".  D. Perrotta, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzoni,  A. Vespignani, ﻿Conference on Complex Systems 2018 [PDF]
 
 "Accuracy and Bias in the Identification of Internal Migrants using Cell Phone Data", L. Hong, J. Wu, E. Frias-Martinez, A. Villareal, V. Frias-Martinez, AAAI ICWSM Workshop on Making Sense of Online Data for Population Research, 2018 [PDF]﻿﻿
 
