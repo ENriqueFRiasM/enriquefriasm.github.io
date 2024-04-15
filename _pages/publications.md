@@ -58,13 +58,13 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
  "Characterization of Internal Migrant Behavior in the Immediate Post-Migration Period using Cell Phone Traces﻿",  L. Hong, J. Wu, E. Frias-Martinez, A. Villarreal, V. Frias-Martinez, 10th ACM Int. Conf.Information and Communication Technologies and Development (ICTD) [LINK](https://dl.acm.org/doi/10.1145/3287098.3287119)﻿[PDF](https://www.researchgate.net/publication/330265602_Characterization_of_internal_migrant_behavior_in_the_immediate_post-migration_period_using_cell_phone_traces)
 
-"Modelling the Epidemics Spread of Zika Using Mobile Phone Data in Colombia".  D. Perrotta, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzoni,  A. Vespignani, ﻿Conference on Complex Systems 2018 [PDF]
+"Modelling the Epidemics Spread of Zika Using Mobile Phone Data in Colombia".  D. Perrotta, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzoni,  A. Vespignani, ﻿Conference on Complex Systems 2018 [PDF](htps://enriquefriasm.github.io/files/ccs2018-abstract.33034013.pdf)
 
-"Accuracy and Bias in the Identification of Internal Migrants using Cell Phone Data", L. Hong, J. Wu, E. Frias-Martinez, A. Villareal, V. Frias-Martinez, AAAI ICWSM Workshop on Making Sense of Online Data for Population Research, 2018 [PDF]﻿﻿
+"Accuracy and Bias in the Identification of Internal Migrants using Cell Phone Data", L. Hong, J. Wu, E. Frias-Martinez, A. Villareal, V. Frias-Martinez, AAAI ICWSM Workshop on Making Sense of Online Data for Population Research, 2018 [PDF](htps://enriquefriasm.github.io/files/accuracy-bias-methods.213210112.pdf﻿﻿)
 
-"Modeling Human Migration patterns during Drought Conditions in La Guajira, Colombia", S. Isaacman, V. Frias-Martinez, E. Frias-Martinez, 1st ACM SIGCAS Conference on Computing and Sustainable Societies [PDF][Presentation][Link]﻿﻿
+"Modeling Human Migration patterns during Drought Conditions in La Guajira, Colombia", S. Isaacman, V. Frias-Martinez, E. Frias-Martinez, 1st ACM SIGCAS Conference on Computing and Sustainable Societies [LINK](https://dl.acm.org/doi/10.1145/3209811.3209861) [PDF](htps://enriquefriasm.github.io/files/modeling-human-migration.213210156.pdf)﻿﻿
 
-"MobInsight: A Framework using Semantic Neighborhood Features for Localized Interpretations of Urban Mobility", S. Park, J. Serra, E. Frias-Martinez, N. Oliver, ACM Transactions on Interactive Intelligent Systems (TiiS) 8 (3), 23﻿[PDF][Link]﻿
+"MobInsight: A Framework using Semantic Neighborhood Features for Localized Interpretations of Urban Mobility", S. Park, J. Serra, E. Frias-Martinez, N. Oliver, ACM Transactions on Interactive Intelligent Systems (TiiS) 8 (3), 23﻿[PDF](https://arxiv.org/abs/1709.10299) [Link](https://dl.acm.org/doi/10.1145/3158433)﻿
 
  "Estimación de la pobreza utilizando datos de teléfonoscelulares: evidencia de Guatemala﻿" , M Hernandez, L Hong, V Frias-Martinez, A Whitby, E Frias-Martinez,﻿ Manual sobre utilidades de Big Data para Bienes Publicos (Invited Book Chapter) [Link][Book Chapter]
 
