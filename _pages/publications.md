@@ -56,7 +56,7 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "Analysis of Post-Migration Mobility and Social Ties of Internal Migrants"﻿﻿﻿,V. Frias-Martinez, L. Hong, J. Wu, A. Villareal, E. Frias-Martinez, Netmob 2019 [PDF](https://enriquefriasm.github.io/files/AnalysisMobilitySOcialTies.28324934.pdf)
 
- "Characterization of Internal Migrant Behavior in the Immediate Post-Migration Period using Cell Phone Traces﻿",  L. Hong, J. Wu, E. Frias-Martinez, A. Villarreal, V. Frias-Martinez, 10th ACM Int. Conf.Information and Communication Technologies and Development (ICTD) [LINK](https://dl.acm.org/doi/10.1145/3287098.3287119)﻿[PDF](https://www.researchgate.net/publication/330265602_Characterization_of_internal_migrant_behavior_in_the_immediate_post-migration_period_using_cell_phone_traces)
+ "Characterization of Internal Migrant Behavior in the Immediate Post-Migration Period using Cell Phone Traces﻿",  L. Hong, J. Wu, E. Frias-Martinez, A. Villarreal, V. Frias-Martinez, 10th ACM Int. Conf.Information and Communication Technologies and Development (ICTD) [LINK](https://dl.acm.org/doi/10.1145/3287098.3287119)﻿ [PDF](https://www.researchgate.net/publication/330265602_Characterization_of_internal_migrant_behavior_in_the_immediate_post-migration_period_using_cell_phone_traces)
 
 "Modelling the Epidemics Spread of Zika Using Mobile Phone Data in Colombia".  D. Perrotta, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzoni,  A. Vespignani, ﻿Conference on Complex Systems 2018 [PDF](https://enriquefriasm.github.io/files/ccs2018-abstract.33034013.pdf)
 
