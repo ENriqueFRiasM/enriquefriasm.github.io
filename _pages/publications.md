@@ -46,9 +46,10 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "Actionable forecasting for emerging infectious diseases: a case study of the 2015-2017 Zika epidemic in Colombia, Oidtman, R. J., Omodei, E., Kraemer, M. U., Castaņeda-Orjuela, C. A., Rivera, E. C., Misnaza-Castrillón, S., E. Frias-Martinez & García-Herranz, M.,  In 2020 ESA Annual Meeting [LINK](https://eco.confex.com/eco/2020/meetingapp.cgi/Paper/87301)
 
-"Harnessing Cell Phone Traces to Model the Spread of Zika in Colombia", D. Perrota, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzioni, A. Vespigniani, NetSciX 2020, Tokio, Japan [PDF][PPT]
+"Harnessing Cell Phone Traces to Model the Spread of Zika in Colombia", D. Perrota, E. Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzioni, A. Vespigniani, NetSciX 2020, Tokio, Japan  [PDF](htps://enriquefriasm.github.io/files/harnessing.27263047.pdf)
 
-"The inverted U-shaped effect of urban hotspots spatial compactness on urban economic growth", Xu, W., Chen, H., Frias-Martinez, E., Cebrian, M., & Li, X. (2019). Royal Society open science, 6(11), 181640.﻿ , https://arxiv.org/abs/1908.05530, [RSOS]
+"The inverted U-shaped effect of urban hotspots spatial compactness on urban economic growth", Xu, W., Chen, H., Frias-Martinez, E., Cebrian, M., & Li, X. (2019). Royal Society open science, 6(11), 181640, [RSOS](https://royalsocietypublishing.org/doi/full/10.1098/rsos.181640) [arXiv](https://arxiv.org/abs/1908.05530)
+
 
 "Comparing Sources of Mobility Information for Modelling the Spread of Zika", D. Perrotta, E.Frias-Martinez, M. Luengo-Oroz, D. Paolotti, M. Tizzoni, A. Vespignani, ﻿﻿﻿Netmob 2019 [PDF]
 
