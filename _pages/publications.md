@@ -64,23 +64,23 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "Modeling Human Migration patterns during Drought Conditions in La Guajira, Colombia", S. Isaacman, V. Frias-Martinez, E. Frias-Martinez, 1st ACM SIGCAS Conference on Computing and Sustainable Societies [LINK](https://dl.acm.org/doi/10.1145/3209811.3209861) [PDF](https://enriquefriasm.github.io/files/modeling-human-migration.213210156.pdf)﻿﻿
 
-"MobInsight: A Framework using Semantic Neighborhood Features for Localized Interpretations of Urban Mobility", S. Park, J. Serra, E. Frias-Martinez, N. Oliver, ACM Transactions on Interactive Intelligent Systems (TiiS) 8 (3), 23﻿[PDF](https://arxiv.org/abs/1709.10299) [Link](https://dl.acm.org/doi/10.1145/3158433)﻿
+"MobInsight: A Framework using Semantic Neighborhood Features for Localized Interpretations of Urban Mobility", S. Park, J. Serra, E. Frias-Martinez, N. Oliver, ACM Transactions on Interactive Intelligent Systems (TiiS) 8 (3), 23﻿[PDF](https://arxiv.org/abs/1709.10299) [LINK](https://dl.acm.org/doi/10.1145/3158433)﻿
 
- "Estimación de la pobreza utilizando datos de teléfonoscelulares: evidencia de Guatemala﻿" , M Hernandez, L Hong, V Frias-Martinez, A Whitby, E Frias-Martinez,﻿ Manual sobre utilidades de Big Data para Bienes Publicos (Invited Book Chapter) [Link][Book Chapter]
+ "Estimación de la pobreza utilizando datos de teléfonoscelulares: evidencia de Guatemala﻿" , M Hernandez, L Hong, V Frias-Martinez, A Whitby, E Frias-Martinez,﻿ Manual sobre utilidades de Big Data para Bienes Publicos (Invited Book Chapter) [PDF](https://enriquefriasm.github.io/files/CapituloLibro.21523228.pdf)
 
-"Climate Change Induced Migrations from a Cell Phone Perspective", S. Isaacman, V. Frias-Martinez, L. Hong, E. Frias-Martinez, NetMob 2017 [PDF][Poster]
+"Climate Change Induced Migrations from a Cell Phone Perspective", S. Isaacman, V. Frias-Martinez, L. Hong, E. Frias-Martinez, NetMob 2017 [PDF](https://enriquefriasm.github.io/files/CLIMATE_1.81125143.pdf) [Poster](https://enriquefriasm.github.io/files/NetMob_1.115122220.pdf)
 
-"LDA Mapping of Regional Socioeconomic Status", L. Hong, E. Frias-Martinez, V. Frias-Martinez, NetMob 2017 [PDF][BOOK of Abstracts-Oral]
+"LDA Mapping of Regional Socioeconomic Status", L. Hong, E. Frias-Martinez, V. Frias-Martinez, NetMob 2017 [PDF](https://enriquefriasm.github.io/files/paperFinal.81125223.pdf) [BOOK of Abstracts-Oral](https://netmob.org/www17/assets/img/bookofabstract_oral_2017.pdf)
 
-"Estimating poverty using cell phone data: evidence from Guatemala", M Hernandez, L Hong, V Frias-Martinez, A Whitby, E Frias-Martinez, World Bank Group Policy Research Paper﻿﻿ [PDF][Link]
+"Estimating poverty using cell phone data: evidence from Guatemala", M Hernandez, L Hong, V Frias-Martinez, A Whitby, E Frias-Martinez, World Bank Group Policy Research Paper﻿﻿ [PDF](https://openknowledge.worldbank.org/server/api/core/bitstreams/4981ea6f-536d-58dd-9057-14b6073a38b3/content) [Link](https://openknowledge.worldbank.org/entities/publication/de05095f-dc1b-5add-b19a-dfc757d8ea3b)
 
- "MobInsight: Understanding Urban Mobility with Crowd-Powered Neighborhood Characterizations", S. Park, M. Bourqui, E. Frias-Martinez, 16th Int. Conf. Data Mining (ICDM 2016) [PDF]
+ "MobInsight: Understanding Urban Mobility with Crowd-Powered Neighborhood Characterizations", S. Park, M. Bourqui, E. Frias-Martinez, 16th Int. Conf. Data Mining (ICDM 2016) [PDF](https://enriquefriasm.github.io/files/icdm_demo_draft_2.115120412.pdf)
 
-"Topic Models to Infer Socio-Economic Maps", L. Hong, E. Frias-Martinez, V. Frias-Martinez, AAAI'16 13th AAAI Conference on Artificial Intelligence, AAAI 2016﻿﻿﻿ [PDF]
+"Topic Models to Infer Socio-Economic Maps", L. Hong, E. Frias-Martinez, V. Frias-Martinez, AAAI'16 13th AAAI Conference on Artificial Intelligence, AAAI 2016﻿﻿﻿ [LINK[(https://ojs.aaai.org/index.php/AAAI/article/view/9892)
 
-"Peer-to-Peer microlending platforms: Characterization of online traits", G. Paruthi, E. Frias-Martinez, V. Frias-Martinez, IEEE Conf. Big Data 2016 [PDF] 
+"Peer-to-Peer microlending platforms: Characterization of online traits", G. Paruthi, E. Frias-Martinez, V. Frias-Martinez, IEEE Conf. Big Data 2016 [PDF](https://enriquefriasm.github.io/files/enviado.81131311.pdf) [LINK](https://ieeexplore.ieee.org/document/7840848)
 
-"The Role of Rating and Loan Characteristics in Online Microfunding Behaviors", ﻿﻿ G. Paruthi, E. Frias-Martinez, V. Frias-Martinez﻿,  Bloomberg Data for Good Exchange 2016 ﻿[PDF]
+"The Role of Rating and Loan Characteristics in Online Microfunding Behaviors", ﻿﻿ G. Paruthi, E. Frias-Martinez, V. Frias-Martinez﻿,  Bloomberg Data for Good Exchange 2016 ﻿[PDF](https://arxiv.org/pdf/1609.09571.pdf) [LINK](https://arxiv.org/abs/1609.09571)
 
 “Comparing and modeling land use organization in cities”, M. Lenormand , M. Picornell, O.G. Cantu-Ros, T. Louail, R. Herranz, M. Barthelemy, E. Frias-Martinez k, M. San Miguel  and J.J. Ramasco, Royal Society Open Science 2, 1504-59 (2015)﻿ [Open Access]
 
