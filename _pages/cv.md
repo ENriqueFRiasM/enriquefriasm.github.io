@@ -19,13 +19,13 @@ Education
 * M.Sc. in Biomedical Engineering, University of California, Los Angeles (UCLA), USA
 * B.S. in Computer Engineering, Universidad de Valladolid, Valladolid, Spain
 
-Awards
+Awards/Acrediatons
 =====
 * Best Ph.D. Thesis Award in Computer Science- “Premio Extraordinario de Tesis Doctoral de la UPM”
 * Ph.D. Fellowship (Beca FPI) -  Spanish Commission for Scientific Research.  Feb. 97- Dec. 00.
 * Post-Doctoral MEC-Fulbright Fellowship -  Sep. 01 – Sep. 03
 * Ramon y Cajal Postdoctoral Fellowship (Granted for 5 Years - Declined)
-
+* Acredited by ANECA as PCD/PUP.
 
 Work experience
 ======
