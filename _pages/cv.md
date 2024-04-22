@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my [Industrial CV], my [short academic CV] or my [long academic cv](in spanish).
+You can download my [Industrial CV](http://enriquefriasm.github.io/files/CV_TEC), my [short academic CV](http://enriquefriasm.github.io/files/CV_AC) or my [long academic cv](http://enriquefriasm.github.io/files/CV_AC_LONG) in spanish.
 
 
 Education
