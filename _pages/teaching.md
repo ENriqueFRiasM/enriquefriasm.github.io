@@ -8,6 +8,7 @@ author_profile: true
 # Management
 * Director of the IBM-UNIR Chair on Data Science for Education, UNIR, Sept. 23- present
 * Director of the Master in Data Science, Universidad Camilo Jose Cela, Sep 21 - Aug. 23
+* Lead Researcher in Mobility and AI for Social Good, Telefonica Research, Jun 2014 - March 2021.
 
 # Teaching
 * "Introduction to Artificial Intelligence" (online), Extended Education, UNIR, 23/24
