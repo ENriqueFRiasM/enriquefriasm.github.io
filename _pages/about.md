@@ -15,4 +15,6 @@ I have received a Ph.D. in Artificial Intelligence from the Universidad Politecn
 
 # ﻿News:
 
-- "The inverted U-shaped effect of urban hotspots spatial compactness on urban economic growth﻿", finally published in [Royal Society Open Science](https://royalsocietypublishing.org/doi/10.1098/rsos.181640) !!!
+-  Despues de mucho trabajo se ha publicado la [“Declaración UNIR para un uso ético de la Inteligencia Artificial en Educación Superior”](https://www.unir.net/wp-content/uploads/2024/02/Declaracion-UNIR-para-un-uso-etico-de-la-IA-en-Educacion-Superior.pdf)
+
+-   "The inverted U-shaped effect of urban hotspots spatial compactness on urban economic growth﻿", finally published in [Royal Society Open Science](https://royalsocietypublishing.org/doi/10.1098/rsos.181640) !!!
