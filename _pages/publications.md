@@ -78,7 +78,7 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
  "MobInsight: Understanding Urban Mobility with Crowd-Powered Neighborhood Characterizations", S. Park, M. Bourqui, E. Frias-Martinez, 16th Int. Conf. Data Mining (ICDM 2016) [PDF](https://enriquefriasm.github.io/files/icdm_demo_draft_2.115120412.pdf)
 
-"Topic Models to Infer Socio-Economic Maps", L. Hong, E. Frias-Martinez, V. Frias-Martinez, AAAI'16 13th AAAI Conference on Artificial Intelligence, AAAI 2016﻿﻿﻿ [LINK[(https://ojs.aaai.org/index.php/AAAI/article/view/9892)
+"Topic Models to Infer Socio-Economic Maps", L. Hong, E. Frias-Martinez, V. Frias-Martinez, AAAI'16 13th AAAI Conference on Artificial Intelligence, AAAI 2016﻿﻿﻿ [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/9892)
 
 "Peer-to-Peer microlending platforms: Characterization of online traits", G. Paruthi, E. Frias-Martinez, V. Frias-Martinez, IEEE Conf. Big Data 2016 [PDF](https://enriquefriasm.github.io/files/enviado.81131311.pdf) [LINK](https://ieeexplore.ieee.org/document/7840848)
 
@@ -90,19 +90,17 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 “Understanding Lending Behaviors on Online Microlending Platforms: The Case for Kiva”, Gaurav Paruthi, Enrique Frias-Martinez and Vanessa Frias-Martinez, 2015 AAAI Conference on Web and Social Media (ICWSM) [PDF][External Link]
 
-"Exploring the potential of phone call data to characterize the relationship between social network and travel behavior“, M. Picornell, T. Ruiz, M. Lenormand, J.J. Ramasco, T. Dubenet, E. Frias-Martinez, Transportation Vol. 42 Issue 4 (2015) Page 647-668 [PDF](https://enriquefriasm.github.io/files/Exploring_the_potential_of_phone_call_data_to_characterize_the_relationship_between_social_network_and_travel_behavior_full_paper.22530237.pdf)[External Link](https://link.springer.com/article/10.1007/s11116-015-9594-1?wt_mc=email.event.1.SEM.ArticleAuthorAssignedToIssue)
+"Exploring the potential of phone call data to characterize the relationship between social network and travel behavior“, M. Picornell, T. Ruiz, M. Lenormand, J.J. Ramasco, T. Dubenet, E. Frias-Martinez, Transportation Vol. 42 Issue 4 (2015) Page 647-668 [PDF](https://enriquefriasm.github.io/files/Exploring_the_potential_of_phone_call_data_to_characterize_the_relationship_between_social_network_and_travel_behavior_full_paper.22530237.pdf) [Link](https://link.springer.com/article/10.1007/s11116-015-9594-1?wt_mc=email.event.1.SEM.ArticleAuthorAssignedToIssue)
 
 “Studying Human Behavior through the Lens of Mobile Phones during Floods”, A.J. Morales, D. Pastor-Escuredo, Y. Torres, V. Frias-Martinez, E. Frias-Martinez, N. Oliver, A. Rutherford, T. Logar, R. Clausen-Nielsen, O. de Backer, M.A. Luengo-Oroz, NetMob 2015 [PDF](https://enriquefriasm.github.io/files/abstractnetmob15.10433832.pdf) [NetMob book](https://netmob.org/www15/assets/img/netmob15_book_of_abstracts_posters.pdf)
 
-"The Future Role of Social Networks in Urban Planning", BlogThinkBig.com, March 13th 2015  [External Link][PDF]
-
 "Urban Analysis for the XXI Century: Using Pervasive Infrastructures for Modeling Urban Dynamics", BlogThinkBig, January 28th 2015 [External Link](https://blogthinkbig.com/the-future-role-of-social-networks-in-urban-planning) [PDF](https://enriquefriasm.github.io/files/Documento1.10433026.pdf)
 
-“Uncovering the spatial structure of mobility networks", T. Louail, M. Lenormand, M. Picornell, O. Garcia Cantu, R. Herranz, E. Frias-Martinez, J. Ramasco, and M. Barthelemy, Nature Communications,  Volume: 6, Article number: 6007 [Link](https://www.nature.com/articles/ncomms7007)[ArXiv](https://arxiv.org/abs/1501.05269)
+“Uncovering the spatial structure of mobility networks", T. Louail, M. Lenormand, M. Picornell, O. Garcia Cantu, R. Herranz, E. Frias-Martinez, J. Ramasco, and M. Barthelemy, Nature Communications,  Volume: 6, Article number: 6007 [Link](https://www.nature.com/articles/ncomms7007) [ArXiv](https://arxiv.org/abs/1501.05269)
 
- “Spectral Clustering for Sensing Urban Land Use using Twitter Activity", V. Frias-Martinez, E. Frias-Martinez,  Engineering Applications of Artificial Intelligence, Vol. 35, October 2014, Pages 237–245, 2014 [PDF](https://enriquefriasm.github.io/files/EAAI-twitter.205202742.pdf)[Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197614001419)
+ “Spectral Clustering for Sensing Urban Land Use using Twitter Activity", V. Frias-Martinez, E. Frias-Martinez,  Engineering Applications of Artificial Intelligence, Vol. 35, October 2014, Pages 237–245, 2014 [PDF](https://enriquefriasm.github.io/files/EAAI-twitter.205202742.pdf) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197614001419)
 
-“Crowdsourcing Land Use Maps via Twitter”, E. Frias-Martinez, V. Frias-Martinez, KDD 2014 Workshop in Data Science for Social Good, 2014  [PDF](https://enriquefriasm.github.io/files/kdd-Frias-DSSG.204115354.pdf)[LINK](https://www.semanticscholar.org/paper/Crowdsourcing-Land-Use-Maps-via-Twitter-Fr%C3%ADas-Mart%C3%ADnez-Fr%C3%ADas-Mart%C3%ADnez/a23c9838f122399c9a6c58f4ac91d1e84a273317)
+“Crowdsourcing Land Use Maps via Twitter”, E. Frias-Martinez, V. Frias-Martinez, KDD 2014 Workshop in Data Science for Social Good, 2014  [PDF](https://enriquefriasm.github.io/files/kdd-Frias-DSSG.204115354.pdf) [LINK](https://www.semanticscholar.org/paper/Crowdsourcing-Land-Use-Maps-via-Twitter-Fr%C3%ADas-Mart%C3%ADnez-Fr%C3%ADas-Mart%C3%ADnez/a23c9838f122399c9a6c58f4ac91d1e84a273317)
 
 
 “Flooding through the lens of mobile phone activity”, D. Pastor, A. Morales, Y. Torres, J. Bauer, A. Wadhwa, C. Castro-Correa, A. Calderón-Mariscal, L. Romanoff , J. Lee, A. Rutherford, V. Frias-Martinez, N. Oliver, E. Frias-Martinez, M. Luengo-Oroz, IEEE Global Humanitarian Technology Conference (GHTC)[arXiv](https://arxiv.org/abs/1411.6574) [LINK](https://ieeexplore.ieee.org/document/6970293)
