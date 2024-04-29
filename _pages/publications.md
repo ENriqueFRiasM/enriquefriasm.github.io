@@ -117,21 +117,21 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
  "Consensus Clustering for Urban Land Use Analysis using Cell Phone Network Data﻿", V. Frias-Martinez, V.Soto, A. Sanchez, E. Frias-Martinez, Int. Journal of Ad-Hoc and Ubiquitous Computing, Vol. 17, No. 1 (2014) pp. 39 - 58. [PDF](https://enriquefriasm.github.io/files/upload-arxive.17135624.pdf) [LINK](https://www.inderscienceonline.com/doi/abs/10.1504/IJAHUC.2014.065157)
 
- "Characterizing Social Response to Urban Earthquakes using Cell-Phone Network Data: The 2012 Oaxaca Earthquake", B. Moumny, V. Frias-Martinez, E. Frias-Martinez, Pervasive Urban Applications -PURBA 2013, Zurich,Switzerland 2013. [PDF]﻿
+ "Characterizing Social Response to Urban Earthquakes using Cell-Phone Network Data: The 2012 Oaxaca Earthquake", B. Moumny, V. Frias-Martinez, E. Frias-Martinez, Pervasive Urban Applications-PURBA 2013, Zurich,Switzerland 2013. [PDF](https://enriquefriasm.github.io/files/sig-alternate.17124814.pdf) [LINK](https://dl.acm.org/doi/10.1145/2494091.2497350)﻿
 
-"A tale of 2 continents and 4 cities about the influence of demographics and social constraints on ride-sharing﻿", Blerim Cici, Enrique Frías-Martínez, Nikolaos Laoutaris﻿, arXive [PDF]
+"A tale of 2 continents and 4 cities about the influence of demographics and social constraints on ride-sharing﻿", Blerim Cici, Enrique Frías-Martínez, Nikolaos Laoutaris﻿, arXive [PDF](https://arxiv.org/abs/1305.3876)
 
-"Can Cell Phone Traces Measure Social Development?﻿", V. Frias-Martinez, V. Soto, J. Virseda, E. Frias-Martinez, Third Conference on the Analysis of Mobile Phone Datasets, NetMob 2013, Boston, MA [PDF]
+"Can Cell Phone Traces Measure Social Development?﻿", V. Frias-Martinez, V. Soto, J. Virseda, E. Frias-Martinez, Third Conference on the Analysis of Mobile Phone Datasets, NetMob 2013, Boston, MA [PDF](https://enriquefriasm.github.io/files/netmob.10895851.pdf)
 
-"Simulation of Epidemic Spread using Cell-Phone Call Data: H1N1 Case Study", E. Frias-Martinez, G. Williamson, V. Frias-Martinez, Third conference on the Analysis of Mobile Phone Datasets, NetMob 2013, Boston, MA [PDF]
+"Simulation of Epidemic Spread using Cell-Phone Call Data: H1N1 Case Study", E. Frias-Martinez, G. Williamson, V. Frias-Martinez, Third conference on the Analysis of Mobile Phone Datasets, NetMob 2013, Boston, MA [PDF](https://enriquefriasm.github.io/files/SimulationEpidemicSpread.10893754.pdf)
 
-"Exploiting Foursquare and Cellular Data to Infer User Activity in Urban Environments"﻿, A. Noulas, C. Mascolo and E. Frias-Martinez, ﻿IEEE Mobile Data Management 2013 (MDM 2013)[PDF] [External Link]﻿﻿﻿﻿﻿
+"Exploiting Foursquare and Cellular Data to Infer User Activity in Urban Environments"﻿, A. Noulas, C. Mascolo and E. Frias-Martinez, ﻿IEEE Mobile Data Management 2013 (MDM 2013)[PDF](https://enriquefriasm.github.io/files/PID2699011.7191532.pdf) [External Link](https://ieeexplore.ieee.org/document/6569133)﻿﻿﻿﻿﻿
 
-"Quantifying the Potential of Ride-Sharing using Call Description Records﻿", B. Cici, A. Markopoulou, E. Frias-Martinez, N. Laoutaris, Int. Workshop on Mobile Computing Systems and Applications - ACM HotMobile 2013﻿[PDF][External Link]﻿﻿﻿﻿
+"Quantifying the Potential of Ride-Sharing using Call Description Records﻿", B. Cici, A. Markopoulou, E. Frias-Martinez, N. Laoutaris, Int. Workshop on Mobile Computing Systems and Applications - ACM HotMobile 2013﻿[PDF](https://enriquefriasm.github.io/files/paper.2343710.pdf) [External Link](https://dl.acm.org/doi/10.1145/2444776.2444799)﻿﻿﻿﻿
 
- "Forecasting Socioeconomic Trends With Cell Phone Records", V. Frias-Martinez, C. Soguero, M. Josephidou and E. Frias-Martinez,﻿ 3rd ACM Symposium on Computing for Development (DEV'13), Bangalore, India, 2013[PDF][External Link]﻿﻿﻿
+ "Forecasting Socioeconomic Trends With Cell Phone Records", V. Frias-Martinez, C. Soguero, M. Josephidou and E. Frias-Martinez,﻿ 3rd ACM Symposium on Computing for Development (DEV'13), Bangalore, India, 2013[PDF] [External Link](https://dl.acm.org/doi/10.1145/2442882.2442902)﻿﻿﻿
 
-"Adaptive Non-Parametric Identification of Dense Areas Using Cell Phone Records for Urban Analysis", A. Rubio, A. Sanchez, E. Frias-Martinez, Int. J. Engineering Applications of Artificial Intelligence (EAAI), Vol. 26(1), Jan 2013, pp. 551-563 [PDF][External Link]﻿
+"Adaptive Non-Parametric Identification of Dense Areas Using Cell Phone Records for Urban Analysis", A. Rubio, A. Sanchez, E. Frias-Martinez, Int. J. Engineering Applications of Artificial Intelligence (EAAI), Vol. 26(1), Jan 2013, pp. 551-563 [PDF](https://enriquefriasm.github.io/files/EAAI-im_v6.18724047.pdf) [External Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197612001017)﻿
 
 "Uncovering the Spatio-Temporal Structure of Social Networks using Cell Phone Records", Luis G. Moyano, Oscar Rocardo Moll Thomae, E. Frias-Martinez, 2012 IEEE ICDM International Workshop on Data Mining Networks (DaMNet 2012), Brussels, Belgium [PDF][External Link]
 
