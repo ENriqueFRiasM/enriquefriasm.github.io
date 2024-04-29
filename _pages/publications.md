@@ -96,29 +96,28 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "The Future Role of Social Networks in Urban Planning", BlogThinkBig.com, March 13th 2015  [External Link][PDF]
 
-"Urban Analysis for the XXI Century: Using Pervasive Infrastructures for Modeling Urban Dynamics", BlogThinkBig, January 28th 2015 [External Link] [PDF]
+"Urban Analysis for the XXI Century: Using Pervasive Infrastructures for Modeling Urban Dynamics", BlogThinkBig, January 28th 2015 [External Link](https://blogthinkbig.com/the-future-role-of-social-networks-in-urban-planning) [PDF](https://enriquefriasm.github.io/files/Documento1.10433026.pdf)
 
-“Uncovering the spatial structure of mobility networks", T. Louail, M. Lenormand, M. Picornell, O. Garcia Cantu, R. Herranz, E. Frias-Martinez, J. Ramasco, and M. Barthelemy, Nature Communications,  Volume: 6, Article number: 6007 [Nature Link][ArXiv]
+“Uncovering the spatial structure of mobility networks", T. Louail, M. Lenormand, M. Picornell, O. Garcia Cantu, R. Herranz, E. Frias-Martinez, J. Ramasco, and M. Barthelemy, Nature Communications,  Volume: 6, Article number: 6007 [Link](https://www.nature.com/articles/ncomms7007)[ArXiv](https://arxiv.org/abs/1501.05269)
 
- “Spectral Clustering for Sensing Urban Land Use using Twitter Activity", V. Frias-Martinez, E. Frias-Martinez,  Engineering Applications of Artificial Intelligence, Vol. 35, October 2014, Pages 237–245, 2014 [PDF][Elsevier Link]
+ “Spectral Clustering for Sensing Urban Land Use using Twitter Activity", V. Frias-Martinez, E. Frias-Martinez,  Engineering Applications of Artificial Intelligence, Vol. 35, October 2014, Pages 237–245, 2014 [PDF](https://enriquefriasm.github.io/files/EAAI-twitter.205202742.pdf)[Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197614001419)
 
-“Crowdsourcing Land Use Maps via Twitter”, E. Frias-Martinez, V. Frias-Martinez, KDD 2014 Workshop in Data Science for Social Good, 2014  [PDF]
+“Crowdsourcing Land Use Maps via Twitter”, E. Frias-Martinez, V. Frias-Martinez, KDD 2014 Workshop in Data Science for Social Good, 2014  [PDF](https://enriquefriasm.github.io/files/kdd-Frias-DSSG.204115354.pdf)[LINK](https://www.semanticscholar.org/paper/Crowdsourcing-Land-Use-Maps-via-Twitter-Fr%C3%ADas-Mart%C3%ADnez-Fr%C3%ADas-Mart%C3%ADnez/a23c9838f122399c9a6c58f4ac91d1e84a273317)
 
-“Flooding through the lens of mobile phone activity”, D. Pastor, A. Morales, Y. Torres, J. Bauer, A. Wadhwa, C. Castro-Correa, A. Calderón-Mariscal, L. Romanoff , J. Lee, A. Rutherford, V. Frias-Martinez, N. Oliver, E. Frias-Martinez, M. Luengo-Oroz, IEEE Global Humanitarian Technology Conference (GHTC) [arXiv] [PDF]
 
-“Cross-checking different sources of mobility information”, M. Lenormand, M. Picornell, O.G. Cantu-Ros, A. Tugores, T. Louail, R. Herranz, M. Barthelemy, E. Frias-Martinez, J.J. Ramasco,  PLoS ONE 9(8): e105184. doi:10.1371/journal.pone.0105184 arXiv:1404.0333 [PLOS ONE]
+“Flooding through the lens of mobile phone activity”, D. Pastor, A. Morales, Y. Torres, J. Bauer, A. Wadhwa, C. Castro-Correa, A. Calderón-Mariscal, L. Romanoff , J. Lee, A. Rutherford, V. Frias-Martinez, N. Oliver, E. Frias-Martinez, M. Luengo-Oroz, IEEE Global Humanitarian Technology Conference (GHTC)[arXiv](https://arxiv.org/abs/1411.6574) [LINK](https://ieeexplore.ieee.org/document/6970293)
 
-"From mobile phone data to the spatial structures of cities", T. Louail, M. Lenormand, O. García Cantú, M. Picornell, R. Herranz, E. Frias-Martinez, J.J. Ramasco, M. Barthelemy, 2014, Scientific Reports 4, Article Number: 5276  arXiv:1401.4540 [Nature Link]
+“Cross-checking different sources of mobility information”, M. Lenormand, M. Picornell, O.G. Cantu-Ros, A. Tugores, T. Louail, R. Herranz, M. Barthelemy, E. Frias-Martinez, J.J. Ramasco,  PLoS ONE 9(8): e105184. doi:10.1371/journal.pone.0105184 [arXiv](https://arxiv.org/abs/1404.0333)[PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105184)
 
-"Estimation of traffic flow using passive cell-phone data",  V. Frias-Martinez, Y.  Moumni, E. Frias-Martinez, ﻿ In Proceedings of the International Workshop on Data Science for Macro-Modeling ACM, June 2014. [PDF]﻿
+"From mobile phone data to the spatial structures of cities", T. Louail, M. Lenormand, O. García Cantú, M. Picornell, R. Herranz, E. Frias-Martinez, J.J. Ramasco, M. Barthelemy, 2014, Scientific Reports 4, Article Number: 5276  [arXiv:1401.4540](https://arxiv.org/abs/1401.4540) [Nature Link](https://www.nature.com/articles/srep05276)
 
- "To Call, or To Tweet? Understanding 3-1-1 Citizen Complaint Behaviors", V. Frias-Martinez, A. Sae-Tang, E. Frias-Martinez, Sixth Int. Conf. on Social Computing, SocialCom 2014, Stanford, CA, USA [PDF]
+"Estimation of traffic flow using passive cell-phone data",  V. Frias-Martinez, Y.  Moumni, E. Frias-Martinez, ﻿ In Proceedings of the International Workshop on Data Science for Macro-Modeling ACM, June 2014. [PDF](https://enriquefriasm.github.io/files/Estimation_of_traffic_flow_using_passice_cell_phone_data.115120924.pdf)[LINK](https://dl.acm.org/doi/abs/10.1145/2630729.2630739)﻿
 
- "Assessing the Potential of Ride-Sharing Using Mobile and Social Data", B. Cici, A. Markopoulou, E. Frias-Martinez, N. Laoutaris, 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2014, Best Paper Nominee, [PDF][Slides]
+ "To Call, or To Tweet? Understanding 3-1-1 Citizen Complaint Behaviors", V. Frias-Martinez, A. Sae-Tang, E. Frias-Martinez, Sixth Int. Conf. on Social Computing, SocialCom 2014, Stanford, CA, USA [PDF](https://enriquefriasm.github.io/files/socialcomFinal.203103842.pdf)[LINK](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=354eae9b35452a7686fa66bcad0ab4050240922e)
 
-"Estimation of traffic flow using passive cell-phone data", V. Frias-Martinez, B. Moumny, E. Frias-Martinez, ACM SIGMOD Workshop of Data Science for Macro-Modeling, 2014 ﻿[PDF][ACM Link]
+ "Assessing the Potential of Ride-Sharing Using Mobile and Social Data", B. Cici, A. Markopoulou, E. Frias-Martinez, N. Laoutaris, 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2014, Best Paper Nominee, [PDF](https://arxiv.org/abs/1305.3876)[LINK](https://dl.acm.org/doi/10.1145/2632048.2632055)
 
- "Consensus Clustering for Urban Land Use Analysis using Cell Phone Network Data﻿", V. Frias-Martinez, V.Soto, A. Sanchez, E. Frias-Martinez, Int. Journal of Ad-Hoc and Ubiquitous Computing, Vol. 17, No. 1 (2014) pp. 39 - 58. [PDF]
+ "Consensus Clustering for Urban Land Use Analysis using Cell Phone Network Data﻿", V. Frias-Martinez, V.Soto, A. Sanchez, E. Frias-Martinez, Int. Journal of Ad-Hoc and Ubiquitous Computing, Vol. 17, No. 1 (2014) pp. 39 - 58. [PDF](https://enriquefriasm.github.io/files/upload-arxive.17135624.pdf)[LINK](https://www.inderscienceonline.com/doi/abs/10.1504/IJAHUC.2014.065157)
 
  "Characterizing Social Response to Urban Earthquakes using Cell-Phone Network Data: The 2012 Oaxaca Earthquake", B. Moumny, V. Frias-Martinez, E. Frias-Martinez, Pervasive Urban Applications -PURBA 2013, Zurich,Switzerland 2013. [PDF]﻿
 
