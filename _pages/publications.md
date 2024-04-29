@@ -84,15 +84,15 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "The Role of Rating and Loan Characteristics in Online Microfunding Behaviors", ﻿﻿ G. Paruthi, E. Frias-Martinez, V. Frias-Martinez﻿,  Bloomberg Data for Good Exchange 2016 ﻿[PDF](https://arxiv.org/pdf/1609.09571.pdf) [LINK](https://arxiv.org/abs/1609.09571)
 
-“Comparing and modeling land use organization in cities”, M. Lenormand , M. Picornell, O.G. Cantu-Ros, T. Louail, R. Herranz, M. Barthelemy, E. Frias-Martinez k, M. San Miguel  and J.J. Ramasco, Royal Society Open Science 2, 1504-59 (2015)﻿ [Open Access]
+“Comparing and modeling land use organization in cities”, M. Lenormand , M. Picornell, O.G. Cantu-Ros, T. Louail, R. Herranz, M. Barthelemy, E. Frias-Martinez k, M. San Miguel  and J.J. Ramasco, Royal Society Open Science 2, 1504-59 (2015)﻿ [LINK](https://royalsocietypublishing.org/doi/10.1098/rsos.150449)
 
-"Mobile Network Data for Public-Health: Opportunities and Challenges", N. Oliver, A. Matic, E. Frias-Martinez, Frontiers in Public Health, 07 August 2015 [Open Access]
+"Mobile Network Data for Public-Health: Opportunities and Challenges", N. Oliver, A. Matic, E. Frias-Martinez, Frontiers in Public Health, 07 August 2015 [LINK](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2015.00189/full)
 
 “Understanding Lending Behaviors on Online Microlending Platforms: The Case for Kiva”, Gaurav Paruthi, Enrique Frias-Martinez and Vanessa Frias-Martinez, 2015 AAAI Conference on Web and Social Media (ICWSM) [PDF][External Link]
 
-"Exploring the potential of phone call data to characterize the relationship between social network and travel behavior“, M. Picornell, T. Ruiz, M. Lenormand, J.J. Ramasco, T. Dubenet, E. Frias-Martinez, Transportation Vol. 42 Issue 4 (2015) Page 647-668 [PDF][External Link]
+"Exploring the potential of phone call data to characterize the relationship between social network and travel behavior“, M. Picornell, T. Ruiz, M. Lenormand, J.J. Ramasco, T. Dubenet, E. Frias-Martinez, Transportation Vol. 42 Issue 4 (2015) Page 647-668 [PDF](https://enriquefriasm.github.io/files/Exploring_the_potential_of_phone_call_data_to_characterize_the_relationship_between_social_network_and_travel_behavior_full_paper.22530237.pdf)[External Link](https://link.springer.com/article/10.1007/s11116-015-9594-1?wt_mc=email.event.1.SEM.ArticleAuthorAssignedToIssue)
 
-“Studying Human Behavior through the Lens of Mobile Phones during Floods”, A.J. Morales, D. Pastor-Escuredo, Y. Torres, V. Frias-Martinez, E. Frias-Martinez, N. Oliver, A. Rutherford, T. Logar, R. Clausen-Nielsen, O. de Backer, M.A. Luengo-Oroz, NetMob 2015 [PDF] [NetMob book]
+“Studying Human Behavior through the Lens of Mobile Phones during Floods”, A.J. Morales, D. Pastor-Escuredo, Y. Torres, V. Frias-Martinez, E. Frias-Martinez, N. Oliver, A. Rutherford, T. Logar, R. Clausen-Nielsen, O. de Backer, M.A. Luengo-Oroz, NetMob 2015 [PDF](https://enriquefriasm.github.io/files/abstractnetmob15.10433832.pdf) [NetMob book](https://netmob.org/www15/assets/img/netmob15_book_of_abstracts_posters.pdf)
 
 "The Future Role of Social Networks in Urban Planning", BlogThinkBig.com, March 13th 2015  [External Link][PDF]
 
