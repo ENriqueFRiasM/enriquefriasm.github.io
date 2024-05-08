@@ -161,7 +161,8 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 # 2010 and before:
 
-URBAN COMPUTING/SMART CITIES
+## URBAN COMPUTING/SMART CITIES
+
 "The Role of Telco Companies in Human Mobility Applications", E. Frias-Martinez in Tecnologias para lasComunicaciones del Futuro, ISBN 978-84-9916-948-4, 2010 pp. 126-130[External Link].
 
 "Querying Spatio-Temporal Patterns in Mobile Phone-Call Databases", M. Vieira , E. Frias-Martinez, P. Bakalov, V. Frias-Martinez, V. Tsotras, 11th Int. Conf. On Mobile Data Management MDM2010, Kansas City, Missouri. [PDF][External Link].
