@@ -170,7 +170,7 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 "Characterizing Dense Urban Areas from Mobile Phone-Call Data: Discovery and Social Dynamics", M. Vieira, V. Frias-Martinez, N. Oliver, E. Frias-Martinez, 2nd Int. Conference on Social Computing (SocialCom2010), Minneapolis, Minnesota, USA. [PDF][External Link].
 
  
-BIG DATA FOR SOCIAL GOOD
+## AI FOR SOCIAL GOOD
 "Socio-Economic Levels and Human Mobility", Vanessa Frias-Martinez, Jess Virseda and Enrique Fras-Martnez, Qual Meets Quant Workshop - QMQ 2010 (at the International Conference on Information & Communication Technologies and Development, ICTD 2010), London, UK. [PDF][External Link].
 
 "The Anatomy of Mobile Handsets: On the development of effective cell phone services", V. Frias-Martinez, J. Virseda, E. Frias-Martinez, 2nd International Conference on M4D - Mobile Communication Technology for Development,Kampala, Uganda, November 2010. [PDF][External Link].
@@ -182,7 +182,7 @@ BIG DATA FOR SOCIAL GOOD
 "A Gender-centric Analysis of Calling Behavior in a Developing Economy Using Call Detail Records", V. Frias-Martinez, E. Frias-Martinez and N. Oliver, AAAI 2010 Spring Symposia Artificial Intelligence for Development, AI-D 2010, Stanford, USA. [PDF][External Link].
 
 
-USER MODELING
+## USER MODELING
 "ARBUD: A Reusable Architecture for Building User Models from Massive Datasets", H. Hohwald, E. Frias-Martinez, N. Oliver, Workshop on Pervasive User Modeling and Personalization (PUMP), UMAP 2010, Hawaii, USA.[PDF][External Link].
 
 "User Modeling for Telecommunication Applications: Experiences and Practical Implications", H. Hohwald, E. Frias-Martinez, UMAP 2010 - Industrial Track, Hawaii, USA. [PDF][External Link].
@@ -211,7 +211,7 @@ Modeling Human Behavior in User-Adaptive Systems: Recent Advances Using Soft Com
 
 Recent Soft Computing Approaches to User Modeling in Adaptive Hypermedia, Frias-Martinez E., Magoulas G.D., Chen S., and Macredie R., In Paul De Bra, Wolfgang Nejdl (eds), Adaptive Hypermedia and adaptive web-based systems, Eindhoven, The Netherlands, Aug. 2004, LNCS 3137, Springer, 104-113.[PDF][External Link]
 
- WEB MINING / DATA MINIG
+ ## WEB MINING / DATA MINIG
  "Analyzing the Role of Dimension Arrangement for Data Visualization in Radviz", L. di Caro, V. Frias-Martinez, E. Frias-Martinez, PAKDD 2010, Hyderabad, India. [PDF][External Link].
  
 "Automatic Generation of Cognitive Theories using Genetic Programming", E. Frias-Martinez, F. Gobet, in Minds and Machines: Journal of Artificial Intelligence, Philosophy and Cognitive Science, 17(3), 287-309, 2007. [PDF][External Link].
@@ -225,7 +225,7 @@ Recent Soft Computing Approaches to User Modeling in Adaptive Hypermedia, Frias-
 "A Prediction Model for User Access Sequences", E. Frias-Martinez, V. Karamcheti, in Proc. 4th WEBKDD Web Mining for Usage Patterns and User Profiles Workshop part of The Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 23-26 July 2002, Edmonton, Canada, pp. 53-62. [PDF][External Link].
 
  
-SOCIAL NETWORKS ANALYSIS
+## SOCIAL NETWORKS ANALYSIS
 "How did you get to know that? A traceable word-of-mouth algorithm", M. Cebrian, E.Frias-Martinez, H. Hohwald, R. Lara, N. Oliver, Symposium on Social Intelligence and Networking (SIN09), August 2009, Vancouver, Canada. [PDF][External Link].
 
 "Word-of-mouth algorithms: What you do not know will hurt you", M. Cebrian, E. Frias-Martinez, Workshop on Multimodal Sensor-Based Systems and Mobile Phones for Social Computing, part of 11th Int. Conf. on Multimodal Interfaces 2009 (ICMI 2009), Cambridge, MA, November 2009. [PDF][External Link].
@@ -233,7 +233,7 @@ SOCIAL NETWORKS ANALYSIS
  "Introducing Causality and Traceability in Word-of-Mouth Algorithms", H. Hohwald, E. Frias-Martinez, M. Cebrian, N. Oliver, Workshop on Information in Networks (WIN), September 25-26, NYU, NYC, USA, 2009.[PDF][External Link].
 
  
-BIOMETRICS / IMAGE PROCESSING
+## BIOMETRICS / IMAGE PROCESSING
 "Three-Dimensional Facial Surface Modeling Applied to Recognition ", A.B. Moreno, A. Sanchez, E. Frias-Martinez, Int. Journal Engineering Applications of Artificial Intelligence 22 (2009), 1233-1244. [PDF][External Link].
 
 "Robust Representation of 3D Faces for Recognition", A.B. Moreno, A. Sanchez, E. Frias-Martinez, in International Journal of Pattern Recognition and Artificial Intelligence Vol. 20(8), 2006. [PDF][External Link].
@@ -247,7 +247,7 @@ BIOMETRICS / IMAGE PROCESSING
 "Design of a Fuzzy Distance for a CBIR System", Oscar D. Robles Snchez, E. Frias-Martinez in Proceedings of the Second European Symposium on Intelligent Technologies, Hybrid Systems and their implementation on Smart Adaptive Systems, 19-21 September 2002, Albufeira, Portugal. [PDF][External Link].
 
  
-MEDICAL APPLICATIONS & USER MODELING
+## MEDICAL APPLICATIONS & USER MODELING
 "Tracking medication information accross medical records", J. E. Iglesias, K. Rocks, N. Jadahanshad, E. Frias-Martinez, A.T. Bui, American Medical Informatics Asociation (AMIA) 2009 Anual Symposium. [PDF][External Link].
 
 "Improved Spectral resolution in 2D Localized Correlated Spectroscopy Using Enhanced Covariance NMR", N. Wilson, E. Frias-Martinez, M.A. Thomas, Proc. Int. Society for Margnetic Resonance in Medicine 2009 (ISMRM). [PDF][External Link].
@@ -259,7 +259,7 @@ MEDICAL APPLICATIONS & USER MODELING
 Profit-Based Two-dimensional 1H MR Spectroscopic Quantitation of metabolies in healthy Human Brain using 3T and 1.5T MRI scanners, M.A.Thomas, E. Frias-Martinez, S. Liu, et al., RSNA 2007 Proc. of the Radiological Society of North America, Chicago, USA, Nov. 2007. [PDF][External Link].
 
  
-SOFT COMPUTING / FUZZY LOGIC
+## SOFT COMPUTING / FUZZY LOGIC
 "Efficient Fuzzy Compiler for SIMD Architectures", E. Frias-Martinez, J. Gutirrez-Ros, F. Fernandez, in International Journal of Applied Soft Computing, Vol. 4(3), 2004, pp. 287-30. [PDF][External Link].
 
 "Design of a Lukasiewicz Rule-Driven Fuzzy Processor", E. Frias-Martinez, in Soft Computing , a Fusion of Foundations, Methodologies and Applications, Vol. 7(2002), no.1,pp. 65-71. [PDF][External Link].
@@ -291,7 +291,7 @@ SOFT COMPUTING / FUZZY LOGIC
 "Rule-Driven Processing for a Generic T-norm (in Spanish), E. Frias-Martinez, J. Gutirrez Ros, Felipe Fernndez, in First European EUSFLAT-ESTYLF Joint Conference, Palma, Spain, Sep. 1999, pp. 191-1941. [PDF][External Link].
 
  
-Ph.D. & MASTER THESIS
+## Ph.D. & MASTER THESIS
 "High-Speed Fully-Programmable Fuzzy System on Standard Architectures" - in Spanish "Modelo de controlador borroso completamente programable de altas prestaciones y su desarrollo", Ph.D. Thesis, Universidad Politecnica de Madrid [PDF][External Link]
 
 "User Modelling for Digital Libraries: A Data Mining Approach", Ph.D. Thesis. Brunel University [PDF] [External Link]
