@@ -15,7 +15,7 @@ As of April 2024, over 5400 citations, h-index=37, i-index=70
 
 "Machine Learning for Higher Education: Current State and Future Prospects", E. Frias-Martinez, Radical Solutions for Artificial Intelligence and Digital Transformation in Education (Book Chapter), Springer-Verlag, 2024 [LINK]
 
-"Declaración UNIR para un uso ético de la Inteligencia Artificial en Educación Superior", D. Burgos, A. Corbi, E. Frias-Martinez, B. Ghorbal, et al. Proeduca. 2023. DOI: https://doi.org/10.5281/zenodo.10686437 [PDF](https://www.unir.net/wp-content/uploads/2024/02/Declaracion-UNIR-para-un-uso-etico-de-la-IA-en-Educacion-Superior.pdf)
+"Declaración UNIR para un uso ético de la Inteligencia Artificial en Educación Superior", D. Burgos, A. Corbi, E. Frias-Martinez, B. Ghorbal, et al. Proeduca. 2023 [PDF](https://www.unir.net/wp-content/uploads/2024/02/Declaracion-UNIR-para-un-uso-etico-de-la-IA-en-Educacion-Superior.pdf)
 
 "Enhancing short-term crime prediction with human mobility flows and deep learning architectures", J Wu, SM Abrar, N Awasthi, E Frias-Martinez, V Frias-Martinez, 
 EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/10.1140/epjds/s13688-022-00366-2.pdf)
@@ -147,17 +147,17 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "Fermis Sibyl: Mining the gamma-ray sky for dark matter subhaloes", N. Mirabal, V. Frias-Martinez, T. Hassan, E. Frias-Martinez, Monthly Notices Royal Astronomical Society (2012) [PDF](https://arxiv.org/abs/1205.4825)
 
-"An Agent-Based Model of Epidemic Spread using Human Mobility and Social Network Information", E. Frias-Martinez, G. Williamson, V. Frias-Martinez, The 3rd IEEE Int. Conf. on Social Computing (SocialCom 2011), Boston, MA, USA [PDF][External Link][Presentation]
+"An Agent-Based Model of Epidemic Spread using Human Mobility and Social Network Information", E. Frias-Martinez, G. Williamson, V. Frias-Martinez, The 3rd IEEE Int. Conf. on Social Computing (SocialCom 2011), Boston, MA, USA [PDF](https://enriquefriasm.github.io/files/socialcom.32892515.pdf) [External Link](https://ieeexplore.ieee.org/document/6113095) [PPT](https://www.slideshare.net/efrias/an-agentbased-model-of-epidemic-spread-using-human-mobility-and-social-network-information)
 
-"Urban Analysis for the XXI Century: Using Pervasive Infrastructures for Modeling Urban Dynamics", E. Frias-Martinez, XXI Jornadas Telecom: Las TIC en las Ciudades del Futuro, Santander, 2011 . Best Paper Award in Smart Cities.[PDF][Presentation]
+"Urban Analysis for the XXI Century: Using Pervasive Infrastructures for Modeling Urban Dynamics", E. Frias-Martinez, XXI Jornadas Telecom: Las TIC en las Ciudades del Futuro, Santander, 2011 . Best Paper Award in Smart Cities.[PDF](https://enriquefriasm.github.io/files/1569458385.18873950.pdf) [Presentation](https://www.slideshare.net/efrias/urban-analysis-for-the-xxi-century-using-pervasive-infrastructures-for-modeling-urban-dynamics-10326908)
 
-"Automated Land Use Identification using Cell-phone Records", V. Soto, E. Frias-Martinez, 3rd ACM Int. Workshop on Hot Topics in Planet-Scale Measurement, in conjuntion with ACM MobiSys2011, Washington DC, 2011 [PDF][External Link][Presentation]
+"Automated Land Use Identification using Cell-phone Records", V. Soto, E. Frias-Martinez, 3rd ACM Int. Workshop on Hot Topics in Planet-Scale Measurement, in conjuntion with ACM MobiSys2011, Washington DC, 2011 [PDF](https://enriquefriasm.github.io/files/hot12-soto.14592918.pdf)  [Link](https://dl.acm.org/doi/10.1145/2000172.2000179) [PPT](https://www.slideshare.net/slideshow/automated-land-use-identification-using-call-detail-records/10326321)
 
-"Robust Land Use Characterization of Urban Landscapes using Cell Phone Data", V.Soto, E. Frias-Martinez, Workshop on Pervasive Urban Applications in conjuntion with 9th Int. Conf. on Pervasive Computing, San Francisco, CA,2011 [PDF][External Link][Presentation]
+"Robust Land Use Characterization of Urban Landscapes using Cell Phone Data", V.Soto, E. Frias-Martinez, Workshop on Pervasive Urban Applications in conjuntion with 9th Int. Conf. on Pervasive Computing, San Francisco, CA,2011 [PDF](https://enriquefriasm.github.io/files/purba2011_submission_3.162113134.pdf) [Link](https://dl.acm.org/doi/abs/10.1145/2000172.2000179) [PPT](https://www.slideshare.net/efrias/robust-land-use-characterization-of-urban-landscapes-using-cell-phone-data)
 
-"Prediction of Socioeconomic Levels using Cell Phone Records", V. Soto, V. Frias-Martinez, J. Virseda and E. Frias-Martinez, International Conference on User Modeling, Adaptation and Personalization (UMAP), Industrial Track, Girona, Spain, 2011[PDF][External Link].
+"Prediction of Socioeconomic Levels using Cell Phone Records", V. Soto, V. Frias-Martinez, J. Virseda and E. Frias-Martinez, International Conference on User Modeling, Adaptation and Personalization (UMAP), Industrial Track, Girona, Spain, 2011[PDF](https://enriquefriasm.github.io/files/umap2011.14593056.pdf) [Link](https://dl.acm.org/doi/10.5555/2021855.2021893)
 
-"Multi-dimensional MR spectroscopy: towards a better understanding of hepatic encephalopathy", M.K. Sarna, A. Huda, R. Nagarajan, C.H. Hinkin, N. Wilson, R.K. Gupta, E. Frias-Martinez, J. Sayre, B. Guze, S.-H. Han, M.A. Thomas, Metabolic Brain Diseases 2011. [PDF][External Link].
+"Multi-dimensional MR spectroscopy: towards a better understanding of hepatic encephalopathy", M.K. Sarna, A. Huda, R. Nagarajan, C.H. Hinkin, N. Wilson, R.K. Gupta, E. Frias-Martinez, J. Sayre, B. Guze, S.-H. Han, M.A. Thomas, Metabolic Brain Diseases 2011. [PDF](https://enriquefriasm.github.io/files/MetabBrainDis2011earlyviewSarmaetal.3533006.pdf) [External Link](https://link.springer.com/article/10.1007/s11011-011-9250-1)
 
 # 2010 and before:
 
