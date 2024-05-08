@@ -197,9 +197,9 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "A Study on the Granularity of User Modeling for Tag Prediction", E. Frias-Martinez, M. Cebrian, A. Jaimes, 2008 IEEE/ACM/WIC International Conference on Web Intelligence, 9-12Dec., Sydney,2008. [PDF][External Link].
 
-Investigation of Behavior and Perception of Digital Library Users: A cognitive Style Perspective, E. Frias-Martinez, S. Chen, X. Liu in International Journal of Information Management, Vol. 28(5),Pages 355-365. [PDF][External Link].
+"Investigation of Behavior and Perception of Digital Library Users: A cognitive Style Perspective, E. Frias-Martinez, S. Chen, X. Liu in International Journal of Information Management, Vol. 28(5),Pages 355-365. [PDF][External Link].
 
-The Role of Human Factors in Stereotyping Behaviour and Perception of Digital Library Users: A Robust Clustering Approach, E. Frias-Martinez, S. Chen, X. Liu, R. Macreadie in User Modeling and User Adapted Interaction 17(3), 2006, 305-337. [PDF][External Link].
+"The Role of Human Factors in Stereotyping Behaviour and Perception of Digital Library Users: A Robust Clustering Approach", E. Frias-Martinez, S. Chen, X. Liu, R. Macreadie in User Modeling and User Adapted Interaction 17(3), 2006, 305-337. [PDF][External Link].
 
 Automatic Cognitive Style Identification of Digital Library Users for Personalization, E. Frias-Martinez, S. Chen, X. Liu, in Journal of the American Society for Information Science and Technology 58(2), 237-251, 2006. [PDF][External Link].
 
@@ -212,6 +212,7 @@ Modeling Human Behavior in User-Adaptive Systems: Recent Advances Using Soft Com
 Recent Soft Computing Approaches to User Modeling in Adaptive Hypermedia, Frias-Martinez E., Magoulas G.D., Chen S., and Macredie R., In Paul De Bra, Wolfgang Nejdl (eds), Adaptive Hypermedia and adaptive web-based systems, Eindhoven, The Netherlands, Aug. 2004, LNCS 3137, Springer, 104-113.[PDF][External Link]
 
  ## WEB MINING / DATA MINIG
+ 
  "Analyzing the Role of Dimension Arrangement for Data Visualization in Radviz", L. di Caro, V. Frias-Martinez, E. Frias-Martinez, PAKDD 2010, Hyderabad, India. [PDF][External Link].
  
 "Automatic Generation of Cognitive Theories using Genetic Programming", E. Frias-Martinez, F. Gobet, in Minds and Machines: Journal of Artificial Intelligence, Philosophy and Cognitive Science, 17(3), 287-309, 2007. [PDF][External Link].
