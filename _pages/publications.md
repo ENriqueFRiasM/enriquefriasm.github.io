@@ -133,19 +133,19 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "Adaptive Non-Parametric Identification of Dense Areas Using Cell Phone Records for Urban Analysis", A. Rubio, A. Sanchez, E. Frias-Martinez, Int. J. Engineering Applications of Artificial Intelligence (EAAI), Vol. 26(1), Jan 2013, pp. 551-563 [PDF](https://enriquefriasm.github.io/files/EAAI-im_v6.18724047.pdf) [External Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197612001017)﻿
 
-"Uncovering the Spatio-Temporal Structure of Social Networks using Cell Phone Records", Luis G. Moyano, Oscar Rocardo Moll Thomae, E. Frias-Martinez, 2012 IEEE ICDM International Workshop on Data Mining Networks (DaMNet 2012), Brussels, Belgium [PDF][External Link]
+"Uncovering the Spatio-Temporal Structure of Social Networks using Cell Phone Records", Luis G. Moyano, Oscar Rocardo Moll Thomae, E. Frias-Martinez, 2012 IEEE ICDM International Workshop on Data Mining Networks (DaMNet 2012), Brussels, Belgium [PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=34d037569452d3a0520fc27720190fb1bc8420a7) [External Link](https://ieeexplore.ieee.org/document/6406447)
 
-"Characterizing Urban Landscapes using Geolocated Tweets", V. Frias-Martinez, V. Soto, H. Hohwald, E. Frias-Martinez, 2012 Int. Conference on Social Computing (SocialCom), Amsterdam, The Nederlands, 2012 [PDF] [External Link]
+"Characterizing Urban Landscapes using Geolocated Tweets", V. Frias-Martinez, V. Soto, H. Hohwald, E. Frias-Martinez, 2012 Int. Conference on Social Computing (SocialCom), Amsterdam, The Nederlands, 2012 [PDF](https://enriquefriasm.github.io/files/socialcom2012.18721418.pdf)  [External Link](https://ieeexplore.ieee.org/document/6406289)
 
-"Estimation of Urban Commuting Patterns Using Cellphone Network Data", V. Frias-Martinez, C. Soguero, E. Frias-Martinez, ACM SIGKDD Int. Workshop on Urban Computing (UrbComp), Beijin, China, 2012 [PDF][External Link]
+"Estimation of Urban Commuting Patterns Using Cellphone Network Data", V. Frias-Martinez, C. Soguero, E. Frias-Martinez, ACM SIGKDD Int. Workshop on Urban Computing (UrbComp), Beijin, China, 2012 [PDF](https://enriquefriasm.github.io/files/UrbComp-Efrias-ver2.165113233.pdf) [External Link](https://dl.acm.org/doi/10.1145/2346496.2346499)
 
-"Computing Cost-Effective Census Maps From Cell Phone Traces", Vanessa Frias-Martinez, Victor Soto, Jesus Virseda and Enrique Frias-Martinez, Pervasive Urban Applications -PURBA 2012, Newscastle, UK, 2012 [PDF][External Link]
+"Computing Cost-Effective Census Maps From Cell Phone Traces", Vanessa Frias-Martinez, Victor Soto, Jesus Virseda and Enrique Frias-Martinez, Pervasive Urban Applications -PURBA 2012, Newscastle, UK, 2012 [PDF](https://enriquefriasm.github.io/files/purba2012_submission_2.12294030.pdf) [External Link]
 
-"Measuring the Impact of Epidemic Alerts on Human Mobility using Cell-Phone Network Data", Vanessa Frias-Martinez, Alberto Rubio and Enrique Frias-Martinez,Pervasive Urban Applications -PURBA 2012, Newscastle, UK, 2012 [PDF][External Link]
+"Measuring the Impact of Epidemic Alerts on Human Mobility using Cell-Phone Network Data", Vanessa Frias-Martinez, Alberto Rubio and Enrique Frias-Martinez,Pervasive Urban Applications -PURBA 2012, Newscastle, UK, 2012 [PDF](https://enriquefriasm.github.io/files/purba2012_submission_1.12294110.pdf) [External Link]
 
-"On the Relation between Socio-Economic Status and Physical Mobility", V. Frias-Martinez, J. Virseda, E. Frias-Martinez, Journal of Information Technology for Development, Special Issue on ICT and Human Mobility: Cases from developing countries and beyond,Feb. 2012 , pp 1-16 [PDF][External Link]
+"On the Relation between Socio-Economic Status and Physical Mobility", V. Frias-Martinez, J. Virseda, E. Frias-Martinez, Journal of Information Technology for Development, Special Issue on ICT and Human Mobility: Cases from developing countries and beyond,Feb. 2012 , pp 1-16 [PDF](https://enriquefriasm.github.io/files/socioEconoJITDPDF.3643432.pdf) [External Link](https://www.tandfonline.com/doi/abs/10.1080/02681102.2011.630312)
 
-"Fermis Sibyl: Mining the gamma-ray sky for dark matter subhaloes", N. Mirabal, V. Frias-Martinez, T. Hassan, E. Frias-Martinez, Monthly Notices Royal Astronomical Society (2012) [PDF]
+"Fermis Sibyl: Mining the gamma-ray sky for dark matter subhaloes", N. Mirabal, V. Frias-Martinez, T. Hassan, E. Frias-Martinez, Monthly Notices Royal Astronomical Society (2012) [PDF](https://arxiv.org/abs/1205.4825)
 
 "An Agent-Based Model of Epidemic Spread using Human Mobility and Social Network Information", E. Frias-Martinez, G. Williamson, V. Frias-Martinez, The 3rd IEEE Int. Conf. on Social Computing (SocialCom 2011), Boston, MA, USA [PDF][External Link][Presentation]
 
