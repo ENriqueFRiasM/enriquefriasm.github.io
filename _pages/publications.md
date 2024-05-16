@@ -177,9 +177,9 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "Towards Large Scale Technology Impact Analyses: Automatic Residential Localization from Mobile Phone-Call Data", V. Frias-Martinez, J. Virsena, A. Rubio, E. Frias-Martinez, International Conference on Information & Communication Technologies and Development ICTD 2010, London, UK. [PDF](https://enriquefriasm.github.io/files/amunozAID10.7692644.pdf) [Link](https://www.mobileactive.org/files/file_uploads/ICTD2010%20Frias-Martinez%20et%20al.pdf)
 
-"Human Mobility in Advanced and Developing Economies: A Comparative Analysis", A. Rubio, V. Frias-Martinez, E. Frias-Martinez and N. Oliver, AAAI 2010 Spring Symposia Artificial Intelligence for Development, AI-D 2010, Stanford, USA. [PDF](amunozAID10.7692644.pdf [Link](https://ai-d.org/pdfs/Rubio.pdf)
+"Human Mobility in Advanced and Developing Economies: A Comparative Analysis", A. Rubio, V. Frias-Martinez, E. Frias-Martinez and N. Oliver, AAAI 2010 Spring Symposia Artificial Intelligence for Development, AI-D 2010, Stanford, USA. [PDF](https://enriquefriasm.github.io/files/amunozAID10.7692644.pdf) [Link](https://ai-d.org/pdfs/Rubio.pdf)
 
-"A Gender-centric Analysis of Calling Behavior in a Developing Economy Using Call Detail Records", V. Frias-Martinez, E. Frias-Martinez and N. Oliver, AAAI 2010 Spring Symposia Artificial Intelligence for Development, AI-D 2010, Stanford, USA. [PDF][External Link].
+"A Gender-centric Analysis of Calling Behavior in a Developing Economy Using Call Detail Records", V. Frias-Martinez, E. Frias-Martinez and N. Oliver, AAAI 2010 Spring Symposia Artificial Intelligence for Development, AI-D 2010, Stanford, USA. [PDF](https://enriquefriasm.github.io/files/vfriasAID10.7692702.pdf) [Link](https://ai-d.org/pdfs/Frias.pdf)
 
 
 ## USER MODELING
@@ -293,10 +293,9 @@ Profit-Based Two-dimensional 1H MR Spectroscopic Quantitation of metabolies in h
 
  
 ## Ph.D. & MASTER THESIS
-"High-Speed Fully-Programmable Fuzzy System on Standard Architectures" - in Spanish "Modelo de controlador borroso completamente programable de altas prestaciones y su desarrollo", Ph.D. Thesis, Universidad Politecnica de Madrid [PDF][External Link]
+"High-Speed Fully-Programmable Fuzzy System on Standard Architectures" - in Spanish "Modelo de controlador borroso completamente programable de altas prestaciones y su desarrollo", Ph.D. Thesis, Universidad Politecnica de Madrid [PDF](https://oa.upm.es/809/1/10200006.pdf) [Link](https://oa.upm.es/809/)
 
-"User Modelling for Digital Libraries: A Data Mining Approach", Ph.D. Thesis. Brunel University [PDF] [External Link]
+"User Modelling for Digital Libraries: A Data Mining Approach", Ph.D. Thesis. Brunel University [PDF](https://enriquefriasm.github.io/files/EFrias-MartinezPhDThesisBrunel.27135406.pdf) [Link]
 
-"A Comparison Study of JPRESS and COSY for Quantitation of 2D Magnetic Resonance Spectroscopy", M.Sc. Thesis, University of California, Los Angeles [PDF][External Link]
+"A Comparison Study of JPRESS and COSY for Quantitation of 2D Magnetic Resonance Spectroscopy", M.Sc. Thesis, University of California, Los Angeles [PDF](https://enriquefriasm.github.io/files/enriquefriasthesis.7795358.pdf) [Link](https://search.library.ucla.edu/discovery/fulldisplay?docid=alma9961643323606533&context=L&vid=01UCS_LAL:UCLA&lang=en&search_scope=ArticlesBooksMore&adaptor=Local%20Search%20Engine&tab=Articles_books_more_slot&query=any,contains,A%20Comparison%20Study%20of%20JPRESS%20and%20COSY%20for%20Quantitation%20of%202D%20Magnetic%20Resonance%20Spectroscopy&offset=0)
 
-"Spatiotemporal analysis of social segregation basen on mobile phone dara: the case of Medellin (Colombia)", B. Moya-Gomez, M Stepniak, J. Garcia-Palomares, E. Frias-Martinez, J. Gutierrez, Comuters, Environment and Urban Systems 89 (2021) [LINK]
