@@ -9,7 +9,7 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-As of April 2024, over 5400 citations, h-index=37, i-index=70
+As of April 2024, over 5400 citations, h-index=38, i-index=71
 
 "A Cybernetic Perspective on Generative AI in Education: From Transmission to Coordination", Griffiths, D., Frías-Martínez, E., Tlili, A., & Burgos, D. (2024), in International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI), 8(5), 15-24, 2024. [LINK](https://www.ijimai.org/journal/bibcite/reference/3430)  [PDF](https://reunir.unir.net/bitstream/handle/123456789/16207/A%20Cybernetic%20Perspective%20on%20Generative%20AI%20in%20Education.pdf?sequence=1&isAllowed=y)
 
@@ -163,21 +163,21 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 ## URBAN COMPUTING/SMART CITIES
 
-"The Role of Telco Companies in Human Mobility Applications", E. Frias-Martinez in Tecnologias para lasComunicaciones del Futuro, ISBN 978-84-9916-948-4, 2010 pp. 126-130[External Link].
+"The Role of Telco Companies in Human Mobility Applications", E. Frias-Martinez in Tecnologias para lasComunicaciones del Futuro, ISBN 978-84-9916-948-4, 2010 pp. 126-130[Link](https://www.agapea.com/Alonso-et-al-alvarez-Garcia/Tecnologias-para-las-telecomunicaciones-del-futuro-9788499169484-i.htm)
 
-"Querying Spatio-Temporal Patterns in Mobile Phone-Call Databases", M. Vieira , E. Frias-Martinez, P. Bakalov, V. Frias-Martinez, V. Tsotras, 11th Int. Conf. On Mobile Data Management MDM2010, Kansas City, Missouri. [PDF][External Link].
+"Querying Spatio-Temporal Patterns in Mobile Phone-Call Databases", M. Vieira , E. Frias-Martinez, P. Bakalov, V. Frias-Martinez, V. Tsotras, 11th Int. Conf. On Mobile Data Management MDM2010, Kansas City, Missouri. [PDF](https://enriquefriasm.github.io/files/vieira_MDM10.32705306.pdf) [Link](https://ieeexplore.ieee.org/document/5489659)
 
-"Characterizing Dense Urban Areas from Mobile Phone-Call Data: Discovery and Social Dynamics", M. Vieira, V. Frias-Martinez, N. Oliver, E. Frias-Martinez, 2nd Int. Conference on Social Computing (SocialCom2010), Minneapolis, Minnesota, USA. [PDF][External Link].
+"Characterizing Dense Urban Areas from Mobile Phone-Call Data: Discovery and Social Dynamics", M. Vieira, V. Frias-Martinez, N. Oliver, E. Frias-Martinez, 2nd Int. Conference on Social Computing (SocialCom2010), Minneapolis, Minnesota, USA. [PDF](https://enriquefriasm.github.io/files/socialcom-227.19573356.pdf) [Link](https://ieeexplore.ieee.org/document/5590404?arnumber=5590404)
 
  
 ## AI FOR SOCIAL GOOD
-"Socio-Economic Levels and Human Mobility", Vanessa Frias-Martinez, Jess Virseda and Enrique Fras-Martnez, Qual Meets Quant Workshop - QMQ 2010 (at the International Conference on Information & Communication Technologies and Development, ICTD 2010), London, UK. [PDF][External Link].
+"Socio-Economic Levels and Human Mobility", Vanessa Frias-Martinez, Jess Virseda and Enrique Fras-Martnez, Qual Meets Quant Workshop - QMQ 2010 (at the International Conference on Information & Communication Technologies and Development, ICTD 2010), London, UK. [PDF](https://enriquefriasm.github.io/files/qmq.3370933.pdf)
 
-"The Anatomy of Mobile Handsets: On the development of effective cell phone services", V. Frias-Martinez, J. Virseda, E. Frias-Martinez, 2nd International Conference on M4D - Mobile Communication Technology for Development,Kampala, Uganda, November 2010. [PDF][External Link].
+"The Anatomy of Mobile Handsets: On the development of effective cell phone services", V. Frias-Martinez, J. Virseda, E. Frias-Martinez, 2nd International Conference on M4D - Mobile Communication Technology for Development,Kampala, Uganda, November 2010. [PDF](https://enriquefriasm.github.io/files/m4d2010Frias.31860622.pdf)
 
-"Towards Large Scale Technology Impact Analyses: Automatic Residential Localization from Mobile Phone-Call Data", V. Frias-Martinez, J. Virsena, A. Rubio, E. Frias-Martinez, International Conference on Information & Communication Technologies and Development ICTD 2010, London, UK. [PDF][External Link].
+"Towards Large Scale Technology Impact Analyses: Automatic Residential Localization from Mobile Phone-Call Data", V. Frias-Martinez, J. Virsena, A. Rubio, E. Frias-Martinez, International Conference on Information & Communication Technologies and Development ICTD 2010, London, UK. [PDF](https://enriquefriasm.github.io/files/amunozAID10.7692644.pdf) [Link](https://www.mobileactive.org/files/file_uploads/ICTD2010%20Frias-Martinez%20et%20al.pdf)
 
-"Human Mobility in Advanced and Developing Economies: A Comparative Analysis", A. Rubio, V. Frias-Martinez, E. Frias-Martinez and N. Oliver, AAAI 2010 Spring Symposia Artificial Intelligence for Development, AI-D 2010, Stanford, USA. [PDF][External Link].
+"Human Mobility in Advanced and Developing Economies: A Comparative Analysis", A. Rubio, V. Frias-Martinez, E. Frias-Martinez and N. Oliver, AAAI 2010 Spring Symposia Artificial Intelligence for Development, AI-D 2010, Stanford, USA. [PDF](amunozAID10.7692644.pdf [Link](https://ai-d.org/pdfs/Rubio.pdf)
 
 "A Gender-centric Analysis of Calling Behavior in a Developing Economy Using Call Detail Records", V. Frias-Martinez, E. Frias-Martinez and N. Oliver, AAAI 2010 Spring Symposia Artificial Intelligence for Development, AI-D 2010, Stanford, USA. [PDF][External Link].
 
