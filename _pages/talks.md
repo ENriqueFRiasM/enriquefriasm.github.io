@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 # Conference Reviewer (Some of them ....)
+- PC Member Netmob 2024
+- PC Member Netmob 2023
 - PC member KDD 2020(Applied Data Science Track), ECML-PKDD 2020 (Demo Track, PC Applied Data Science Track), Sixth International Conference on Machine Learning, Optimization, and Data Science 2020
 - PC Member Netmob 2019 - Scientific Analysis of Mobile phone datasets, 7th International Workship on Pervasive Urban Applications (PURBA) 2018, 
 - PC Member 11th IEEE International Conference on Social Computing and Networking 2018, 
