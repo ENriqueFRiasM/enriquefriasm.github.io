@@ -201,15 +201,15 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "The Role of Human Factors in Stereotyping Behaviour and Perception of Digital Library Users: A Robust Clustering Approach", E. Frias-Martinez, S. Chen, X. Liu, R. Macreadie in User Modeling and User Adapted Interaction 17(3), 2006, 305-337. [PDF](https://bura.brunel.ac.uk/bitstream/2438/3197/1/The%20Role%20of%20Human%20Factors%20in%20Stereotyping%20Behavior%20and%20Perception%20of%20Digital%20Library%20Users%20A%20Robust%20Clustering%20Approach.pdf) [External Link](https://link.springer.com/article/10.1007/s11257-007-9028-7).
 
-"Automatic Cognitive Style Identification of Digital Library Users for Personalization", E. Frias-Martinez, S. Chen, X. Liu, in Journal of the American Society for Information Science and Technology 58(2), 237-251, 2006. [PDF][External Link].
+"Automatic Cognitive Style Identification of Digital Library Users for Personalization", E. Frias-Martinez, S. Chen, X. Liu, in Journal of the American Society for Information Science and Technology 58(2), 237-251, 2006. [PDF](https://enriquefriasm.github.io/files/JASISTver3-3.7693204.pdf) [External Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.20477)
 
-"Automated User Modeling for Personalized Digital Libraries", E. Frias-Martinez, G. Magoulas, S. Chen, R. Macredie, in International Journal of Information Management 26 (3), pp.234-248, 2006. [PDF][External Link].
+"Automated User Modeling for Personalized Digital Libraries", E. Frias-Martinez, G. Magoulas, S. Chen, R. Macredie, in International Journal of Information Management 26 (3), pp.234-248, 2006. [PDF](https://enriquefriasm.github.io/files/IJIM34.8365125.pdf) [External Link](https://www.sciencedirect.com/science/article/abs/pii/S0268401206000090)
 
-"Survey of Data Mining Approaches to User Modeling for Adaptive Hypermedia", E. Frias-Martinez, S. Chen, X. Liu, in IEEE Transactions in System, Man and Cybernetics Part C 36(6), 734-749, 2006. [PDF][External Link].
+"Survey of Data Mining Approaches to User Modeling for Adaptive Hypermedia", E. Frias-Martinez, S. Chen, X. Liu, in IEEE Transactions in System, Man and Cybernetics Part C 36(6), 734-749, 2006. [PDF](https://bura.brunel.ac.uk/bitstream/2438/1183/1/Survey%20of%20Data%20Mining%202006.pdf) [External Link](https://ieeexplore.ieee.org/document/1715503?arnumber=1715503)
 
-"Modeling Human Behavior in User-Adaptive Systems: Recent Advances Using Soft Computing Techniques", Frias-Martinez E., Magoulas G., Chen S., Macredie R., in Expert Systems with Applications, vol. 29(2), 2005, pp. 320-329. [PDF][External Link].
+"Modeling Human Behavior in User-Adaptive Systems: Recent Advances Using Soft Computing Techniques", Frias-Martinez E., Magoulas G., Chen S., Macredie R., in Expert Systems with Applications, vol. 29(2), 2005, pp. 320-329. [PDF](https://eprints.bbk.ac.uk/id/eprint/311/1/Binder1.pdf) [External Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417405000588)
 
-"Recent Soft Computing Approaches to User Modeling in Adaptive Hypermedia", Frias-Martinez E., Magoulas G.D., Chen S., and Macredie R., In Paul De Bra, Wolfgang Nejdl (eds), Adaptive Hypermedia and adaptive web-based systems, Eindhoven, The Netherlands, Aug. 2004, LNCS 3137, Springer, 104-113.[PDF][External Link]
+"Recent Soft Computing Approaches to User Modeling in Adaptive Hypermedia", Frias-Martinez E., Magoulas G.D., Chen S., and Macredie R., In Paul De Bra, Wolfgang Nejdl (eds), Adaptive Hypermedia and adaptive web-based systems, Eindhoven, The Netherlands, Aug. 2004, LNCS 3137, Springer, 104-113.[PDF](https://www.dcs.bbk.ac.uk/~gmagoulas/AH04-Frias-Magoulas-Chen-Macredie.pdf) [External Link](https://link.springer.com/chapter/10.1007/978-3-540-27780-4_14)
 
  ## WEB MINING / DATA MINIG
  
