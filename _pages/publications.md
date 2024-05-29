@@ -183,33 +183,33 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 
 ## USER MODELING
-"ARBUD: A Reusable Architecture for Building User Models from Massive Datasets", H. Hohwald, E. Frias-Martinez, N. Oliver, Workshop on Pervasive User Modeling and Personalization (PUMP), UMAP 2010, Hawaii, USA.[PDF][External Link].
+"ARBUD: A Reusable Architecture for Building User Models from Massive Datasets", H. Hohwald, E. Frias-Martinez, N. Oliver, Workshop on Pervasive User Modeling and Personalization (PUMP), UMAP 2010, Hawaii, USA.[PDF](https://enriquefriasm.github.io/files/pluggable.30551244.pdf)
 
-"User Modeling for Telecommunication Applications: Experiences and Practical Implications", H. Hohwald, E. Frias-Martinez, UMAP 2010 - Industrial Track, Hawaii, USA. [PDF][External Link].
+"User Modeling for Telecommunication Applications: Experiences and Practical Implications", H. Hohwald, E. Frias-Martinez, UMAP 2010 - Industrial Track, Hawaii, USA. [PDF](https://enriquefriasm.github.io/files/mobile-user-models.8193409.pdf) [External Link](https://link.springer.com/chapter/10.1007/978-3-642-13470-8_30)
 
-"Mobile Web Profiling: A Study of Surfing Habits of Mobile Users", D. Olmedilla, E. Frias-Martinez, R. Lara, UMAP 2010-Industrial Track, Hawaii, USA. [PDF][External Link].
+"Mobile Web Profiling: A Study of Surfing Habits of Mobile Users", D. Olmedilla, E. Frias-Martinez, R. Lara, UMAP 2010-Industrial Track, Hawaii, USA. [PDF](https://enriquefriasm.github.io/files/20100315_UMAP_mobileweb-2.7691835.pdf) [External Link](https://link.springer.com/chapter/10.1007/978-3-642-13470-8_31)
 
-"Explicit vs. Implicit Tagging for User Modelling", E.Frias-Martinez, M. Cebrian, M. Pascual, N. Oliver, Workshop in Personalization in Mobile and Pervasive Computing, UMAP 2009, Trento, Italy. [PDF][External Link].
+"Explicit vs. Implicit Tagging for User Modelling", E.Frias-Martinez, M. Cebrian, M. Pascual, N. Oliver, Workshop in Personalization in Mobile and Pervasive Computing, UMAP 2009, Trento, Italy. [PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ec840871a4fd09179dc88957fdae8d4c141defdd)  [External Link](https://ceur-ws.org/Vol-478/paper7.pdf)
 
-"Evaluation of a Personalized Digital Library based on Cognitive Styles: Adaptivity vs. Adaptability, E. Frias-Martinez, S. Chen, X. Liu in International Journal of Information Management, 29(1), 48-56, 2009. [PDF][External Link].
+"Evaluation of a Personalized Digital Library based on Cognitive Styles: Adaptivity vs. Adaptability", E. Frias-Martinez, S. Chen, X. Liu in International Journal of Information Management, 29(1), 48-56, 2009. [PDF](https://core.ac.uk/download/pdf/335808.pdf) [External Link](https://www.sciencedirect.com/science/article/abs/pii/S0268401208000169)
 
-"Understanding Web Site Redesigns in Small and Medium-Sized Enterprises (SMEs): A UK based study on the applicability of e-commerce stage Models", F. Alonso, G. Fitzgerald, E. Frias-Martinez in European Journal of Information Systems (2009) 18, 264-279.[﻿PDF][External Link].
+"Understanding Web Site Redesigns in Small and Medium-Sized Enterprises (SMEs): A UK based study on the applicability of e-commerce stage Models", F. Alonso, G. Fitzgerald, E. Frias-Martinez in European Journal of Information Systems (2009) 18, 264-279.[﻿PDF](https://enriquefriasm.github.io/files/EJIS-Alonso.3532909.pdf) [External Link](https://link.springer.com/article/10.1057/ejis.2009.14)
 
-"A Study on the Granularity of User Modeling for Tag Prediction", E. Frias-Martinez, M. Cebrian, A. Jaimes, 2008 IEEE/ACM/WIC International Conference on Web Intelligence, 9-12Dec., Sydney,2008. [PDF][External Link].
+"A Study on the Granularity of User Modeling for Tag Prediction", E. Frias-Martinez, M. Cebrian, A. Jaimes, 2008 IEEE/ACM/WIC International Conference on Web Intelligence, 9-12Dec., Sydney,2008. [PDF](https://enriquefriasm.github.io/files/Frias-StudyGranularityUM.7793406.pdf) [External Link](https://ieeexplore.ieee.org/abstract/document/4740558)
 
-"Investigation of Behavior and Perception of Digital Library Users: A cognitive Style Perspective, E. Frias-Martinez, S. Chen, X. Liu in International Journal of Information Management, Vol. 28(5),Pages 355-365. [PDF][External Link].
+"Investigation of Behavior and Perception of Digital Library Users: A cognitive Style Perspective", E. Frias-Martinez, S. Chen, X. Liu in International Journal of Information Management, Vol. 28(5),Pages 355-365. [PDF](https://bura.brunel.ac.uk/bitstream/2438/3196/1/Investigation%20of%20Behavior%20and%20Perception%20of%20Digital%20Library%20Users-%20A%20Cognitive%20Style%20Perspective.pdf)  [External Link](https://www.sciencedirect.com/science/article/abs/pii/S0268401207001375)
 
-"The Role of Human Factors in Stereotyping Behaviour and Perception of Digital Library Users: A Robust Clustering Approach", E. Frias-Martinez, S. Chen, X. Liu, R. Macreadie in User Modeling and User Adapted Interaction 17(3), 2006, 305-337. [PDF][External Link].
+"The Role of Human Factors in Stereotyping Behaviour and Perception of Digital Library Users: A Robust Clustering Approach", E. Frias-Martinez, S. Chen, X. Liu, R. Macreadie in User Modeling and User Adapted Interaction 17(3), 2006, 305-337. [PDF](https://bura.brunel.ac.uk/bitstream/2438/3197/1/The%20Role%20of%20Human%20Factors%20in%20Stereotyping%20Behavior%20and%20Perception%20of%20Digital%20Library%20Users%20A%20Robust%20Clustering%20Approach.pdf) [External Link](https://link.springer.com/article/10.1007/s11257-007-9028-7).
 
-Automatic Cognitive Style Identification of Digital Library Users for Personalization, E. Frias-Martinez, S. Chen, X. Liu, in Journal of the American Society for Information Science and Technology 58(2), 237-251, 2006. [PDF][External Link].
+"Automatic Cognitive Style Identification of Digital Library Users for Personalization", E. Frias-Martinez, S. Chen, X. Liu, in Journal of the American Society for Information Science and Technology 58(2), 237-251, 2006. [PDF][External Link].
 
-Automated User Modeling for Personalized Digital Libraries, E. Frias-Martinez, G. Magoulas, S. Chen, R. Macredie, in International Journal of Information Management 26 (3), pp.234-248, 2006. [PDF][External Link].
+"Automated User Modeling for Personalized Digital Libraries", E. Frias-Martinez, G. Magoulas, S. Chen, R. Macredie, in International Journal of Information Management 26 (3), pp.234-248, 2006. [PDF][External Link].
 
-Survey of Data Mining Approaches to User Modeling for Adaptive Hypermedia, E. Frias-Martinez, S. Chen, X. Liu, in IEEE Transactions in System, Man and Cybernetics Part C 36(6), 734-749, 2006. [PDF][External Link].
+"Survey of Data Mining Approaches to User Modeling for Adaptive Hypermedia", E. Frias-Martinez, S. Chen, X. Liu, in IEEE Transactions in System, Man and Cybernetics Part C 36(6), 734-749, 2006. [PDF][External Link].
 
-Modeling Human Behavior in User-Adaptive Systems: Recent Advances Using Soft Computing Techniques, Frias-Martinez E., Magoulas G., Chen S., Macredie R., in Expert Systems with Applications, vol. 29(2), 2005, pp. 320-329. [PDF][External Link].
+"Modeling Human Behavior in User-Adaptive Systems: Recent Advances Using Soft Computing Techniques", Frias-Martinez E., Magoulas G., Chen S., Macredie R., in Expert Systems with Applications, vol. 29(2), 2005, pp. 320-329. [PDF][External Link].
 
-Recent Soft Computing Approaches to User Modeling in Adaptive Hypermedia, Frias-Martinez E., Magoulas G.D., Chen S., and Macredie R., In Paul De Bra, Wolfgang Nejdl (eds), Adaptive Hypermedia and adaptive web-based systems, Eindhoven, The Netherlands, Aug. 2004, LNCS 3137, Springer, 104-113.[PDF][External Link]
+"Recent Soft Computing Approaches to User Modeling in Adaptive Hypermedia", Frias-Martinez E., Magoulas G.D., Chen S., and Macredie R., In Paul De Bra, Wolfgang Nejdl (eds), Adaptive Hypermedia and adaptive web-based systems, Eindhoven, The Netherlands, Aug. 2004, LNCS 3137, Springer, 104-113.[PDF][External Link]
 
  ## WEB MINING / DATA MINIG
  
