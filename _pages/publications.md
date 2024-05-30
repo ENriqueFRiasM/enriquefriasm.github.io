@@ -249,15 +249,15 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
  
 ## MEDICAL APPLICATIONS & USER MODELING
-"Tracking medication information accross medical records", J. E. Iglesias, K. Rocks, N. Jadahanshad, E. Frias-Martinez, A.T. Bui, American Medical Informatics Asociation (AMIA) 2009 Anual Symposium. [PDF][External Link].
+"Tracking medication information accross medical records", J. E. Iglesias, K. Rocks, N. Jadahanshad, E. Frias-Martinez, A.T. Bui, American Medical Informatics Asociation (AMIA) 2009 Anual Symposium. [PDF](https://enriquefriasm.github.io/files/amia-f2009-266.pdf)) [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815368/)
 
-"Improved Spectral resolution in 2D Localized Correlated Spectroscopy Using Enhanced Covariance NMR", N. Wilson, E. Frias-Martinez, M.A. Thomas, Proc. Int. Society for Margnetic Resonance in Medicine 2009 (ISMRM). [PDF][External Link].
+"Improved Spectral resolution in 2D Localized Correlated Spectroscopy Using Enhanced Covariance NMR", N. Wilson, E. Frias-Martinez, M.A. Thomas, Proc. Int. Society for Margnetic Resonance in Medicine 2009 (ISMRM). [PDF](https://enriquefriasm.github.io/files/CovNMRNeilrad93AE51.8365431.pdf) [Link](https://cds.ismrm.org/protected/09MProceedings/PDFfiles/04273.pdf)
 
-"ProFit-based Quantitation of Cerebral Metabolites using 2D L-COSY at 3T Magnetic Resonance", E. Frias-Martinez, N. Rajakumar, X. Liu, et al., ISMRM 2008 Proc. Internacion Society for Magnetic Resonance in Medicine, Toronto, Canada May 2008. [PDF][External Link].
+"ProFit-based Quantitation of Cerebral Metabolites using 2D L-COSY at 3T Magnetic Resonance", E. Frias-Martinez, N. Rajakumar, X. Liu, et al., ISMRM 2008 Proc. Internacion Society for Magnetic Resonance in Medicine, Toronto, Canada May 2008. [PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6493ee74502529d45712ae1fdb5f0d9a1c9fbd64) [Link](https://www.ismrm.org/08/Session69.htm)
 
-"A Pilot Comparison of 2D and 1D MR Spectroscopic Quantitation of Metabolites in Healthy Human Brain at 3T Magnetic Resonance", E. Frias-Martinez, N. Rajakumar, S. Ramadan, et al., ISMRM 2008 Proc. International Society for Magnetic Resonance in Medicine, Toronto, Canada May 2008. [PDF][External Link].
+"A Pilot Comparison of 2D and 1D MR Spectroscopic Quantitation of Metabolites in Healthy Human Brain at 3T Magnetic Resonance", E. Frias-Martinez, N. Rajakumar, S. Ramadan, et al., ISMRM 2008 Proc. International Society for Magnetic Resonance in Medicine, Toronto, Canada May 2008. [PDF](https://enriquefriasm.github.io/files/rad0b0141.8370151.pdf) [Link](https://cds.ismrm.org/protected/08MProceedings/PDFfiles/01603.pdf)
 
-Profit-Based Two-dimensional 1H MR Spectroscopic Quantitation of metabolies in healthy Human Brain using 3T and 1.5T MRI scanners, M.A.Thomas, E. Frias-Martinez, S. Liu, et al., RSNA 2007 Proc. of the Radiological Society of North America, Chicago, USA, Nov. 2007. [PDF][External Link].
+"Profit-Based Two-dimensional 1H MR Spectroscopic Quantitation of metabolies in healthy Human Brain using 3T and 1.5T MRI scanners", M.A.Thomas, E. Frias-Martinez, S. Liu, et al., RSNA 2007 Proc. of the Radiological Society of North America, Chicago, USA, Nov. 2007. [PDF](https://enriquefriasm.github.io/files/rad1f8681.8370331.pdf) [Link](https://archive.rsna.org/2007/5014241.html)
 
  
 ## SOFT COMPUTING / FUZZY LOGIC
