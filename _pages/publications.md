@@ -213,17 +213,17 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
  ## WEB MINING / DATA MINIG
  
- "Analyzing the Role of Dimension Arrangement for Data Visualization in Radviz", L. di Caro, V. Frias-Martinez, E. Frias-Martinez, PAKDD 2010, Hyderabad, India. [PDF][External Link].
+ "Analyzing the Role of Dimension Arrangement for Data Visualization in Radviz", L. di Caro, V. Frias-Martinez, E. Frias-Martinez, PAKDD 2010, Hyderabad, India. [PDF](https://enriquefriasm.github.io/files/pakdd_8p.7794001.pdf) [Link](https://link.springer.com/chapter/10.1007/978-3-642-13672-6_13)
  
-"Automatic Generation of Cognitive Theories using Genetic Programming", E. Frias-Martinez, F. Gobet, in Minds and Machines: Journal of Artificial Intelligence, Philosophy and Cognitive Science, 17(3), 287-309, 2007. [PDF][External Link].
+"Automatic Generation of Cognitive Theories using Genetic Programming", E. Frias-Martinez, F. Gobet, in Minds and Machines: Journal of Artificial Intelligence, Philosophy and Cognitive Science, 17(3), 287-309, 2007. [PDF](https://bura.brunel.ac.uk/bitstream/2438/1168/1/FullText.pdf) [Link](https://link.springer.com/article/10.1007/s11023-007-9070-6)
  
-"Mining User Preferences of Multimedia Interfaces with K-modes", K.A. Chrysostomou, E. Frias-Martinez, S. Y. Chen, X. Liu, in 2006 IEEE International Conference on Systems, Man, and Cybernetics, Oct. 2006, Taipei, Taiwan. [PDF][External Link].
+"Mining User Preferences of Multimedia Interfaces with K-modes", K.A. Chrysostomou, E. Frias-Martinez, S. Y. Chen, X. Liu, in 2006 IEEE International Conference on Systems, Man, and Cybernetics, Oct. 2006, Taipei, Taiwan. [PDF](https://enriquefriasm.github.io/files/mining_user_preferences.8124707.pdf) [Link](https://ieeexplore.ieee.org/document/4274313)
  
-"A Customizable Behavior Model for Temporal Prediction of Web User Access Sequences", E. Frias-Martinez, Vijay Karamchety in O.R. Zaiane, J. Srivastava, M. Spiliopolou and B Masand (Eds.), LNAI 2703, 2003, ISBN:3-540-20304-4.[PDF][External Link].
+"A Customizable Behavior Model for Temporal Prediction of Web User Access Sequences", E. Frias-Martinez, Vijay Karamchety in O.R. Zaiane, J. Srivastava, M. Spiliopolou and B Masand (Eds.), LNAI 2703, 2003, ISBN:3-540-20304-4.[PDF](https://enriquefriasm.github.io/files/a_customizable_temporal_model.8124539.pdf) [Link](https://link.springer.com/chapter/10.1007/978-3-540-39663-5_5)
 
-"Reduction of User Perceived Latency for a Dynamic and Personalized Site Using Web-Mining Techniques",Enrique Frias-Martinez, Vijay Karamcheti, WEBKDD2003 Workshop, The Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, July 2003, Washington D.C. [PDF][External Link].
+"Reduction of User Perceived Latency for a Dynamic and Personalized Site Using Web-Mining Techniques",Enrique Frias-Martinez, Vijay Karamcheti, WEBKDD2003 Workshop, The Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, July 2003, Washington D.C. [PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d05c396575b0663c17632ad798eff77f35bc9a17) [Link]
 
-"A Prediction Model for User Access Sequences", E. Frias-Martinez, V. Karamcheti, in Proc. 4th WEBKDD Web Mining for Usage Patterns and User Profiles Workshop part of The Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 23-26 July 2002, Edmonton, Canada, pp. 53-62. [PDF][External Link].
+"A Prediction Model for User Access Sequences", E. Frias-Martinez, V. Karamcheti, in Proc. 4th WEBKDD Web Mining for Usage Patterns and User Profiles Workshop part of The Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 23-26 July 2002, Edmonton, Canada, pp. 53-62. [PDF](https://enriquefriasm.github.io/files/seqpred-webkdd02.pdf) [Link](https://www.researchgate.net/profile/Enrique-Frias-Martinez/publication/228952893_A_Scalable_Behavior_Model_for_Temporal_Prediction_of_Web_User_Access_Sequences/links/02e7e529313f1c413e000000/A-Scalable-Behavior-Model-for-Temporal-Prediction-of-Web-User-Access-Sequences.pdf)
 
  
 ## SOCIAL NETWORKS ANALYSIS
