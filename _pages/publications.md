@@ -227,25 +227,25 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
  
 ## SOCIAL NETWORKS ANALYSIS
-"How did you get to know that? A traceable word-of-mouth algorithm", M. Cebrian, E.Frias-Martinez, H. Hohwald, R. Lara, N. Oliver, Symposium on Social Intelligence and Networking (SIN09), August 2009, Vancouver, Canada. [PDF][External Link].
+"How did you get to know that? A traceable word-of-mouth algorithm", M. Cebrian, E.Frias-Martinez, H. Hohwald, R. Lara, N. Oliver, Symposium on Social Intelligence and Networking (SIN09), August 2009, Vancouver, Canada. [PDF](https://enriquefriasm.github.io/files/word-of-mouthSIN09.pdf) [Link](https://ieeexplore.ieee.org/document/5284066)
 
-"Word-of-mouth algorithms: What you do not know will hurt you", M. Cebrian, E. Frias-Martinez, Workshop on Multimodal Sensor-Based Systems and Mobile Phones for Social Computing, part of 11th Int. Conf. on Multimodal Interfaces 2009 (ICMI 2009), Cambridge, MA, November 2009. [PDF][External Link].
+"Word-of-mouth algorithms: What you do not know will hurt you", M. Cebrian, E. Frias-Martinez, Workshop on Multimodal Sensor-Based Systems and Mobile Phones for Social Computing, part of 11th Int. Conf. on Multimodal Interfaces 2009 (ICMI 2009), Cambridge, MA, November 2009. [PDF](https://enriquefriasm.github.io/files/Cebrian-Frias-Word-of-Mouth.7794910.pdf) [Link](https://dl.acm.org/doi/10.1145/1641389.1641391)
 
- "Introducing Causality and Traceability in Word-of-Mouth Algorithms", H. Hohwald, E. Frias-Martinez, M. Cebrian, N. Oliver, Workshop on Information in Networks (WIN), September 25-26, NYU, NYC, USA, 2009.[PDF][External Link].
+ "Introducing Causality and Traceability in Word-of-Mouth Algorithms", H. Hohwald, E. Frias-Martinez, M. Cebrian, N. Oliver, Workshop on Information in Networks (WIN), September 25-26, NYU, NYC, USA, 2009.[PDF](https://enriquefriasm.github.io/files/SNA-NYC3.7794645.pdf) [Link](https://www.media.mit.edu/publications/introducing-causality-and-traceability-in-word-of-mouth-algorithms/)
 
  
 ## BIOMETRICS / IMAGE PROCESSING
-"Three-Dimensional Facial Surface Modeling Applied to Recognition ", A.B. Moreno, A. Sanchez, E. Frias-Martinez, Int. Journal Engineering Applications of Artificial Intelligence 22 (2009), 1233-1244. [PDF][External Link].
+"Three-Dimensional Facial Surface Modeling Applied to Recognition ", A.B. Moreno, A. Sanchez, E. Frias-Martinez, Int. Journal Engineering Applications of Artificial Intelligence 22 (2009), 1233-1244. [PDF](https://enriquefriasm.github.io/files/Moreno_EAAI_v3.34924154.pdf) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197609000839)
 
-"Robust Representation of 3D Faces for Recognition", A.B. Moreno, A. Sanchez, E. Frias-Martinez, in International Journal of Pattern Recognition and Artificial Intelligence Vol. 20(8), 2006. [PDF][External Link].
+"Robust Representation of 3D Faces for Recognition", A.B. Moreno, A. Sanchez, E. Frias-Martinez, in International Journal of Pattern Recognition and Artificial Intelligence Vol. 20(8), 2006. [PDF](https://enriquefriasm.github.io/files/IJPRAI_-_revisado-6.34831139.pdf) [Link](https://www.worldscientific.com/doi/abs/10.1142/S0218001406005198)
 
-"Support Vector Machines versus Multi-Layer Perceptrons for Efficient Off-Line Signature Recognition", E. Frias-Martinez, A. Sanchez, J. Velez, in Engineering Applications of Artificial Intelligence Vol. 19 (6), pp. 693-704, 2006. [PDF][External Link].
+"Support Vector Machines versus Multi-Layer Perceptrons for Efficient Off-Line Signature Recognition", E. Frias-Martinez, A. Sanchez, J. Velez, in Engineering Applications of Artificial Intelligence Vol. 19 (6), pp. 693-704, 2006. [PDF](https://enriquefriasm.github.io/files/SVM-ANN4SMC-231.8074924.pdf) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197606000352)
 
-"Machine Learning Techniques for Automatic Image Processing", E. Frias-Martinez, First Workshop on Intelligent Image Processing & Biometric Recognition, Universidad Rey Juan Carlos, Madrid, Spain, December 2003 (ISBN 84-9772-660-X). [PDF][External Link].
+"Machine Learning Techniques for Automatic Image Processing", E. Frias-Martinez, First Workshop on Intelligent Image Processing & Biometric Recognition, Universidad Rey Juan Carlos, Madrid, Spain, December 2003 (ISBN 84-9772-660-X). [Link](https://books.google.es/books?id=eHgdPq3iO7sC&pg=PA113&lpg=PA113&dq=Machine+Learning+Techniques+for+Automatic+Image+Processing&source=bl&ots=D_BbkBkZdF&sig=1-isk5DlVInwzVpaCF09RWQdI74&hl=es&ei=XKyfS5O6OsP64AarvfDtDQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CAYQ6AEwAA#v=onepage&q=Machine%20Learning%20Techniques%20for%20Automatic%20Image%20Processing&f=false)
 
-"SIMD Optimization of Euclidean Distance Transforms for Pattern Recognition", B. Martn, A.B. Moreno, A. Snchez and E. Frias-Martinez, in Proceedings of 2nd International Conference on Visualization, Imaging, and Image Processing (VIIP 2002), September 9-12, 2002, Mlaga, Spain. [PDF][External Link].
+"SIMD Optimization of Euclidean Distance Transforms for Pattern Recognition", B. Martn, A.B. Moreno, A. Snchez and E. Frias-Martinez, in Proceedings of 2nd International Conference on Visualization, Imaging, and Image Processing (VIIP 2002), September 9-12, 2002, Mlaga, Spain. [PDF](https://enriquefriasm.github.io/files/364-1221.34741045.pdf) [Link](https://www.actapress.com/Abstract.aspx?paperId=25529)
 
-"Design of a Fuzzy Distance for a CBIR System", Oscar D. Robles Snchez, E. Frias-Martinez in Proceedings of the Second European Symposium on Intelligent Technologies, Hybrid Systems and their implementation on Smart Adaptive Systems, 19-21 September 2002, Albufeira, Portugal. [PDF][External Link].
+"Design of a Fuzzy Distance for a CBIR System", Oscar D. Robles Snchez, E. Frias-Martinez in Proceedings of the Second European Symposium on Intelligent Technologies, Hybrid Systems and their implementation on Smart Adaptive Systems, 19-21 September 2002, Albufeira, Portugal. [PDF](https://enriquefriasm.github.io/files/13431_p_robles.348105556.pdf) [Link](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=edd749176f3ff5e49227bcde08eb508a196a8c26)
 
  
 ## MEDICAL APPLICATIONS & USER MODELING
