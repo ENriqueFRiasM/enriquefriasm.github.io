@@ -261,21 +261,21 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
  
 ## SOFT COMPUTING / FUZZY LOGIC
-"Efficient Fuzzy Compiler for SIMD Architectures", E. Frias-Martinez, J. Gutirrez-Ros, F. Fernandez, in International Journal of Applied Soft Computing, Vol. 4(3), 2004, pp. 287-30. [PDF][External Link].
+"Efficient Fuzzy Compiler for SIMD Architectures", E. Frias-Martinez, J. Gutirrez-Ros, F. Fernandez, in International Journal of Applied Soft Computing, Vol. 4(3), 2004, pp. 287-30. [PDF](https://enriquefriasm.github.io/files/10111043200.7491912.pdf) [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494604000481)
 
-"Design of a Lukasiewicz Rule-Driven Fuzzy Processor", E. Frias-Martinez, in Soft Computing , a Fusion of Foundations, Methodologies and Applications, Vol. 7(2002), no.1,pp. 65-71. [PDF][External Link].
+"Design of a Lukasiewicz Rule-Driven Fuzzy Processor", E. Frias-Martinez, in Soft Computing , a Fusion of Foundations, Methodologies and Applications, Vol. 7(2002), no.1,pp. 65-71. [PDF](https://enriquefriasm.github.io/files/design_of_a_lukasiewicz_rule-driven_fuzzy_processor.8124626.pdf) [Link](https://link.springer.com/article/10.1007/s00500-002-0175-9)
 
-"Universal Fuzzy System to Takagi-Sugeno Fuzzy System Compiler", E. Frias-Martinez, in Proc. 2002 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2002), Honolulu, Hawaii, USA, May 12-17, 2002, pp. 305-309. [PDF][External Link].
+"Universal Fuzzy System to Takagi-Sugeno Fuzzy System Compiler", E. Frias-Martinez, in Proc. 2002 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2002), Honolulu, Hawaii, USA, May 12-17, 2002, pp. 305-309. [PDF](https://enriquefriasm.github.io/files/universal_fuzzy_system.8124805.pdf) [Link](https://ieeexplore.ieee.org/document/1005006?arnumber=1005006)
 
 "Design of a fuzzy positioning controller for a robot (in Spanish), V. Frias-Martinez, E. Frias- Martinez, in Proceedings of the 9th Conference of the Spanish Association of Artificial Intelligence, Gijn, Spain, Nov. 2001, pp. 705-714. [PDF][External Link].
 
 "Real-Time Fuzzy Controller on a HC12 Microcontroller (in Spanish), E. Frias-Martinez, V. Frias-Martinez, in Proceedings of the 9th Conference of the Spanish Association of Artificial Intelligence, Gijn, Spain, Nov. 2001, pp. 1167-1176. [PDF][External Link].
 
-"Real-Time Fuzzy Processor on a DSP, E. Frias-Martinez, in 8th IEEE International Conference on Emerging Technologies and Factory Automation, Antibes, Juan-les-pins, France, Oct. 2001, pp. 403-408. [PDF][External Link].
+"Real-Time Fuzzy Processor on a DSP", E. Frias-Martinez, in 8th IEEE International Conference on Emerging Technologies and Factory Automation, Antibes, Juan-les-pins, France, Oct. 2001, pp. 403-408. [PDF](https://enriquefriasm.github.io/files/real-time_fuzzy_processor_on_a_dsp.8173500.pdf) [Link](https://ieeexplore.ieee.org/document/996395)
 
-"Real-Time Full-Programmable Fuzzy Processor on an Intel Pentium III, E. Frias-Martinez, J. Gutirrez Ros, F. Fernndez, in The 2ndEuro. Soc. for Fuzzy Logic and Technology Conference, Leicester (England), Sep. 2001, pp. 67-70. [﻿PDF][External Link].
+"Real-Time Full-Programmable Fuzzy Processor on an Intel Pentium III, E. Frias-Martinez, J. Gutirrez Ros, F. Fernndez, in The 2ndEuro. Soc. for Fuzzy Logic and Technology Conference, Leicester (England), Sep. 2001, pp. 67-70. [﻿PDF](https://enriquefriasm.github.io/files/067_Frias-Martinez.3533456.pdf) [External Link].
 
-"Design of a Rule-Driven Architecture for a Generic T-norm", E. Frias-Martinez, J. Gutirrez-Ros, F. Fernndez, in Mathware & Soft Computing, Vol. VII, no. 3,Dec. 2000. [PDF][External Link].
+"Design of a Rule-Driven Architecture for a Generic T-norm", E. Frias-Martinez, J. Gutirrez-Ros, F. Fernndez, in Mathware & Soft Computing, Vol. VII, no. 3,Dec. 2000. [PDF](https://www.researchgate.net/publication/39426097_Design_of_a_rule-driven_architecture_for_a_genetic_T-norm) [Link](https://dialnet.unirioja.es/ejemplar/213088)
 
 "High-Speed Full-Programmable Fuzzy Controller (in Spanish), E. Frias-Martinez, J. Gutirrez Ros, F. Fernndez, in X Spanish Congress on Fuzzy Logic, ESTYLF 2000, Seville, Sep. 2000, pp. 273-278. [PDF][External Link].
 
@@ -285,11 +285,11 @@ EPJ data science 11 (1), 53, 2022 [LINK](https://link.springer.com/content/pdf/1
 
 "High-Speed Full-Programmable Fuzzy Controller on a DSP", E. Frias-Martinez, J. Gutirrez Ros, F. Fernndez, in Second International ICSC Symposium on Engineering of Intelligent Systems, EIS'2000, Scotland, Jun. 2000, pp. 599-603. [PDF][External Link].
 
-"Pseudo Rule-Driven Model for a Programmable T-norm", E. Frias-Martinez, J. Gutirrez Ros, F. Fernndez, in The Ninth IEEE Int. Conf. Fuzzy Systems, FUZZ-IEEE 2000, San Antonio, TX, USA, May. 2000, pp. 324-327. [PDF][External Link].
+"Pseudo Rule-Driven Model for a Programmable T-norm", E. Frias-Martinez, J. Gutirrez Ros, F. Fernndez, in The Ninth IEEE Int. Conf. Fuzzy Systems, FUZZ-IEEE 2000, San Antonio, TX, USA, May. 2000, pp. 324-327. [PDF](https://enriquefriasm.github.io/files/pseudo_rule-driven_model.8124741.pdf) [Link](https://ieeexplore.ieee.org/document/838680).
 
 "Hardware for Fuzzy Processing (in Spanish), E. Frias-Martinez, J. Gutirrez Ros, in III Conference of the Spanish Association of Artificial Intelligence, Murcia, Spain, Nov. 99, pp. 13-19. [PDF][External Link].
 
-"Rule-Driven Processing for a Generic T-norm (in Spanish), E. Frias-Martinez, J. Gutirrez Ros, Felipe Fernndez, in First European EUSFLAT-ESTYLF Joint Conference, Palma, Spain, Sep. 1999, pp. 191-1941. [PDF][External Link].
+"Rule-Driven Processing for a Generic T-norm" (in Spanish. Modelo de procesamiento rule-driven para sistemas con T-norma genérica), E. Frias-Martinez, J. Gutirrez Ros, Felipe Fernndez, in First European EUSFLAT-ESTYLF Joint Conference, Palma, Spain, Sep. 1999, pp. 191-1941. [PDF][Link](https://dblp.uni-trier.de/db/conf/eusflat/eusflat1999.html).
 
  
 ## Ph.D. & MASTER THESIS
