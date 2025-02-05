@@ -27,4 +27,4 @@ author_profile: true
 
 - "Method, system and computer-readable storage mediums for estimating a route", [European Patent EP2822325 A1](https://data.epo.org/gpi/EP2822325A1-Method-system-and-computer-readable-storage-mediums-for-estimating-a-route) [US Patent US20150012213 A1](https://patents.google.com/patent/US20150012213?oq=frias-martinez)
 
-- "A computer implemented method, a system and computer program products for selecting representatives' paths of commuting routes ”, [European Patent EP5096862](https://data.epo.org/publication-server/document?iDocId=5096862&iFormat=0)
+- "A computer implemented method, a system and computer program products for selecting representatives' paths of commuting routes ”, [European Patent EP5096862](https://register.epo.org/application?number=EP14382564)
