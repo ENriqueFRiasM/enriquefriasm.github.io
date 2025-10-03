@@ -9,11 +9,14 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+
 As of September 2025, over 6100 citations, h-index=41, i-index=79
+
 Made it to Stanford/Elsevier Top 2% Scientists list for 2025 (in Artificial Intelligence & Image processing position 7940 out of 450,000)
+
 Made it to Stanford/Elsevier Top 2% Scientists list for 2024
 
-"utomated Machine Learning Approach (AutoML) to Alzheimer’s Disease Diagnosis and Prognosis", Guillén, P., & Frias-Martinez, E. (2025). A. Applied Artificial Intelligence, 39(1) [LINK](https://www.tandfonline.com/doi/full/10.1080/08839514.2025.2565166)
+"Automated Machine Learning Approach (AutoML) to Alzheimer’s Disease Diagnosis and Prognosis", Guillén, P., & Frias-Martinez, E. (2025). A. Applied Artificial Intelligence, 39(1) [LINK](https://www.tandfonline.com/doi/full/10.1080/08839514.2025.2565166)
 
 "A Cybernetic Perspective on Generative AI in Education: From Transmission to Coordination", Griffiths, D., Frías-Martínez, E., Tlili, A., & Burgos, D. (2024), in International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI), 8(5), 15-24, 2024. [LINK](https://www.ijimai.org/journal/bibcite/reference/3430)  [PDF](https://reunir.unir.net/bitstream/handle/123456789/16207/A%20Cybernetic%20Perspective%20on%20Generative%20AI%20in%20Education.pdf?sequence=1&isAllowed=y)
 
