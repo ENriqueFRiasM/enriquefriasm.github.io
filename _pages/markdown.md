@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+* Made it to Stanford/Elsevier Top 2% Scientists list for 2025 (in Artificial Intelligence & Image processing position 7940 out of 450,000)
+*  Made it to Stanford/Elsevier Top 2% Scientists list for 2024
 * Paper "Colouring Epidemic Risk Maps using Mobile Data" featured in [Comunidad de Madrid](https://www.comunidad.madrid/noticias/2022/11/01/comunidad-madrid-investiga-metodo-desarrollar-mapas-riesgo-epidemico-eficientes), [Noticias de la Ciencia](https://noticiasdelaciencia.com/art/45218/datos-del-uso-de-telefonia-movil-para-evaluar-la-propagacion-de-epidemias) and [Europa Press](https://www.europapress.es/madrid/noticia-imdea-investiga-metodo-datos-red-movil-desarrollar-mapas-riesgo-epidemico-eficientes-20221101134911.html) (1/11/2022)
 * My paper on the study of the effect of COVID-19 in the telecommunication network was features in The Telegraph,  [One in 10 inner London residents fled the capital during lockdown, mobile phone data shows](https://www.telegraph.co.uk/technology/2020/10/28/one-10-inner-london-residents-left-home-lockdown-mobile-phone/), (28/10/2020)
 * Invited Talk: ["Modelado de epidemias con datos de movilidad urbana"](https://telefonicatech.com/blog/meetups-2020-la-revolucion-de-los-algoritmos-en-el-campo-de-la-medicina), part of La revolución de los algoritmos en el campo de la medicina, organized by Data Science Spain & IoT Analytics Spain (29/02/2020) 
