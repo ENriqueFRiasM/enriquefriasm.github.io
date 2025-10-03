@@ -15,6 +15,8 @@ I have received a Ph.D. in Artificial Intelligence from the Universidad Politecn
 
 # ﻿News:
 
+- Made it to Stanford/Elsevier Top 2% Scientists list for 2025 (in Artificial Intelligence & Image processing position 7940 out of 450,000)
+- Made it to Stanford/Elsevier Top 2% Scientists list for 2024
+- New Publication "Automated Machine Learning Approach (AutoML) to Alzheimer’s Disease Diagnosis and Prognosis" (https://www.tandfonline.com/doi/full/10.1080/08839514.2025.2565166)
 -  Despues de mucho trabajo se ha publicado la [“Declaración UNIR para un uso ético de la Inteligencia Artificial en Educación Superior”](https://www.unir.net/wp-content/uploads/2024/02/Declaracion-UNIR-para-un-uso-etico-de-la-IA-en-Educacion-Superior.pdf)
 
--   "The inverted U-shaped effect of urban hotspots spatial compactness on urban economic growth﻿", finally published in [Royal Society Open Science](https://royalsocietypublishing.org/doi/10.1098/rsos.181640) !!!
