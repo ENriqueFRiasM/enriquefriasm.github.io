@@ -16,7 +16,9 @@ Made it to Stanford/Elsevier Top 2% Scientists list for 2025 (in Artificial Inte
 
 Made it to Stanford/Elsevier Top 2% Scientists list for 2024
 
-"Automated Machine Learning Approach (AutoML) to Alzheimer’s Disease Diagnosis and Prognosis", Guillén, P., & Frias-Martinez, E. (2025). A. Applied Artificial Intelligence, 39(1) [LINK](https://www.tandfonline.com/doi/full/10.1080/08839514.2025.2565166)
+"Enhancing SHAP Explainability for Diagnostic and Prognostic ML Models in Alzheimer’s Disease", Guillén, P., & Frias-Martinez, E. (2026). Computers, Materials and Continua Journal [LINK](https://doi.org/10.32604/cmc.2026.076400)
+
+"Automated Machine Learning Approach (AutoML) to Alzheimer’s Disease Diagnosis and Prognosis", Guillén, P., & Frias-Martinez, E. (2025). Applied Artificial Intelligence, 39(1) [LINK](https://www.tandfonline.com/doi/full/10.1080/08839514.2025.2565166)
 
 "A Cybernetic Perspective on Generative AI in Education: From Transmission to Coordination", Griffiths, D., Frías-Martínez, E., Tlili, A., & Burgos, D. (2024), in International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI), 8(5), 15-24, 2024. [LINK](https://www.ijimai.org/journal/bibcite/reference/3430)  [PDF](https://reunir.unir.net/bitstream/handle/123456789/16207/A%20Cybernetic%20Perspective%20on%20Generative%20AI%20in%20Education.pdf?sequence=1&isAllowed=y)
 
