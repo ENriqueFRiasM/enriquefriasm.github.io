@@ -1,4 +1,5 @@
-<img width="58" height="3" alt="image" src="https://github.com/user-attachments/assets/1ae3e75e-ce30-4369-bd83-47911a9e917b" />---
+<img width="58" height="3" alt="image" src="https://github.com/user-attachments/assets/1ae3e75e-ce30-4369-bd83-47911a9e917b" />
+---
 permalink: /
 title: ""
 author_profile: true
@@ -6,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 # About myself....
 I am Enrique Frias-Martinez, an applied researcher in Artificial Intelligence working on EdTech, LLMs/Generative AI applications for education, AI Ethics, urban computing and AI for Social Good. I strongly believe that AI is the next frontier for innovation and will change the way societies operate from an expert-base approach to a data-driven approach. Apart from research in AI I am also very interested in technology transfer and IPR, as the main means of producing a social impact from research results.
 
