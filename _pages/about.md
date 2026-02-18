@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "Academic Page E. Frias-Martine"
@@ -17,8 +16,6 @@ Currently I work as a Senior Researcher at UNIR-iTED (Research Institute for Inn
 I have received a Ph.D. in Artificial Intelligence from the Universidad Politecnica de Madrid, Madrid, Spain, where I was the recipient of the Best Ph.D. Thesis Award of the School of Computer Science. I also have a MSc in Biomedical Engineering from UCLA and a PhD in Information Systems from Brunel University London.
 
 # ﻿News:
-
-- New Publication "Enhancing SHAP Explainability for Diagnostic and Prognostic ML Models in Alzheimer’s Disease", [CMC Journal](https://doi.org/10.32604/cmc.2026.076400)
 - Made it to Stanford/Elsevier Top 2% Scientists list for 2025 (in Artificial Intelligence & Image processing position 7940 out of 450,000)
 - Made it to Stanford/Elsevier Top 2% Scientists list for 2024
 - New Publication "Automated Machine Learning Approach (AutoML) to Alzheimer’s Disease Diagnosis and Prognosis" [Applied Artificial Intelligence](https://www.tandfonline.com/doi/full/10.1080/08839514.2025.2565166)
