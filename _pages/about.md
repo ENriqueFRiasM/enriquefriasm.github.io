@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Page E. Frias-Martine"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
